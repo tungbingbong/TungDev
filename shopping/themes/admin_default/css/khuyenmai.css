@@ -1,0 +1,19 @@
+#gb{
+position:fixed;
+bottom:5px;
+z-index:+1000;
+}
+* html #gb{position:relative;}
+
+.gbtab{
+height:100px;
+width:34px;
+float:left;
+cursor:pointer;
+background:url('http://2.bp.blogspot.com/-5nyYkIoJSBo/TwvS9UWGRoI/AAAAAAAAAcE/0ZvmrsiZhWc/s1600/widget-choi-nhac-an-hien-namkna-ngoctra.gif') no-repeat;
+}
+.gbcontent{
+float:left;
+background:none;
+padding:3px;
+}

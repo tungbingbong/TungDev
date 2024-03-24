@@ -1,0 +1,9 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "name": "Lập Trình JavaScript Nâng Cao",
+      "description": "Hiểu sâu hơn về cách Javascript hoạt động, tìm hiểu về IIFE, closure, reference types, this keyword, bind, call, apply, prototype, ..."
+    }
+  ]
+}

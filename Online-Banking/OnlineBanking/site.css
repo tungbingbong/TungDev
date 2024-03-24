@@ -1,0 +1,22 @@
+#name {
+    padding: 5px;
+    padding-left:  15px;
+    padding-right: 15px;
+    background-color: #ffffff;
+    border-radius: 0 0 5px 5px;
+}
+h1.fixed{
+    position: fixed;
+}
+
+h1 {
+    font-family: Georgia, serif;
+    border-bottom: 3px solid #cc9900;
+    color: black;
+    font-size: 30px;
+}
+h2{
+	font-family: Georgia.serif;
+	color: blue;
+	font-size: 25px;
+}

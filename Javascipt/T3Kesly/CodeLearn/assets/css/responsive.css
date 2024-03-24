@@ -1,0 +1,125 @@
+/* Mobile and Tablet */
+@media (max-width: 63.938rem) {
+    .hide-on-tablet-mobile {
+        display: none;
+    }
+
+    .main {
+        overflow: hidden;
+    }
+
+    .container {
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+
+    .navbar {
+        justify-content: space-between;
+    }
+
+    .wrap-right-header {
+        flex: none;
+    }
+
+    .toggle-on-tablet-mobile {
+        display: flex;
+    }
+    
+    .list-skills {
+        justify-content: space-between;
+    }
+
+    .skill-item {
+        width: 45%;
+    }
+
+    .skill-item:not(:nth-child(3n+3)) {
+        margin-right: 0;
+    }
+
+    .footer-top {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+}
+ 
+
+/* Tablet */
+@media (min-width: 46.188rem) and (max-width: 63.938rem){
+    .hide-on-tablet {
+        display: none;
+    }
+
+    .m-mt-12 {
+        margin-top: 12px;
+    }
+}
+
+/* Mobile */ 
+@media (max-width: 46.188rem) {
+    .hide-on-mobile {
+        display: none;
+    }
+
+    .s-text-center {
+        text-align: center;
+    }
+
+    .s-mt-12 {
+        margin-top: 12px;
+    }
+
+    .s-mt-24 {
+        margin-top: 24px;
+    }
+
+    .s-container {
+        padding-left: 12px;
+        padding-right: 12px;
+    }
+
+    .notify-container {
+        width: 60vw;
+    }
+
+    .skill-item {
+        width: 100%;
+    }
+    
+    .detail-progress-item h4 {
+        display: -webkit-box;
+        overflow: hidden;
+        -webkit-line-clamp: 1;
+        -webkit-box-orient: vertical;
+    }
+
+    .detail-progress-content .result {
+        font-size: 1.6rem;
+    }
+
+    .detail-progress-bar {
+        display: none;
+    }
+
+    .btn-see-more {
+        border-radius: 4px;
+        padding: 5px 8px;
+        border: 1px solid;
+    }
+
+    .footer-bottom {
+        display: inline-block;
+        width: 100%;
+    }
+
+    .powerby, .copyright {
+        
+        margin-bottom: 4px;
+    }
+
+    .owl-carousel .owl-stage-outer {
+        overflow: visible;
+    }
+    
+}
+

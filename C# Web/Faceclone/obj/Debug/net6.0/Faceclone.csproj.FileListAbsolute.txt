@@ -1,0 +1,8 @@
+/Users/admin/Documents/Tung Dev/C# Web/Faceclone/obj/Debug/net6.0/Faceclone.csproj.AssemblyReference.cache
+/Users/admin/Documents/Tung Dev/C# Web/Faceclone/obj/Debug/net6.0/Sweeter.Form1.resources
+/Users/admin/Documents/Tung Dev/C# Web/Faceclone/obj/Debug/net6.0/SweeterServer.Form1.resources
+/Users/admin/Documents/Tung Dev/C# Web/Faceclone/obj/Debug/net6.0/Faceclone.csproj.GenerateResource.cache
+/Users/admin/Documents/Tung Dev/C# Web/Faceclone/obj/Debug/net6.0/Faceclone.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/Tung Dev/C# Web/Faceclone/obj/Debug/net6.0/Faceclone.AssemblyInfoInputs.cache
+/Users/admin/Documents/Tung Dev/C# Web/Faceclone/obj/Debug/net6.0/Faceclone.AssemblyInfo.cs
+/Users/admin/Documents/Tung Dev/C# Web/Faceclone/obj/Debug/net6.0/Faceclone.csproj.CoreCompileInputs.cache

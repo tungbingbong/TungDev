@@ -1,0 +1,146 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="mainphu.master.cs" Inherits="mainphu" %>
+<%@ Register Src="TaiNguyenDieuKhien/LienKet.ascx" TagName="LienKet" TagPrefix="uc5" %>
+<%@ Register Src="TaiNguyenDieuKhien/ThongTinThiTruong.ascx" TagName="ThongTinThiTruong"
+    TagPrefix="uc4" %>
+<%@ Register Src="TaiNguyenDieuKhien/Top10SanPham.ascx" TagName="Top10SanPham" TagPrefix="uc3" %>
+<%@ Register Src="TaiNguyenDieuKhien/MenuDanhMuc.ascx" TagName="MenuDanhMuc" TagPrefix="uc2" %>
+<%@ Register Src="TaiNguyenDieuKhien/ThongKeTruyCap.ascx" TagName="ThongKeTruyCap"
+    TagPrefix="uc1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+     <title>Moonly Center - Trung tâm mua bán sản phẩm chính hãng Sony</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta name="description" content="A Community Based WordPress Theme" />
+<script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>		<!-- jQuery -->
+<script type="text/javascript" src="js/coin-slider.min.js"></script>		<!-- slider -->
+<script type="text/javascript" src="js/cufon-yui.js"></script>				<!-- cufon -->
+<script type="text/javascript" src="js/cufon-chunkfive.js"></script>			<!-- cufon font -->
+<script type="text/javascript" src="js/menusm.js"></script>					<!-- menu -->
+<script type="text/javascript" src="js/script.js"></script>	
+<script src="js/jquery-1.11.3.min.js"></script>
+<script src="js/jssor.slider-23.1.0.mini.js"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">   
+<link rel="stylesheet" type="text/css" href="style.css" media="screen" />
+</head>
+<body>
+    <form id="form1" runat="server">
+   
+        <div>
+            
+
+            <div class="header">
+                <div style="width:200px; height=150px; float:left;"><a href="GioiThieuSanPham.aspx"><img src="img/logo-black.png"  width="100%" height="100%"/></a></div>
+                <div style="float:right;">
+                    <ul>
+                        <li><asp:LinkButton ID="LinkButton1" runat="server" OnClick="LinkButton1_Click1">Đơn Hàng</asp:LinkButton></li>
+                        <li><a href="GioHang.aspx">Giỏ Hàng</a></li>
+                    </ul>
+                </div>
+                
+            </div>
+            
+            
+        <!-- Bullet Navigator -->
+        
+        <!-- Arrow Navigator -->
+       
+           
+            
+            <div class="thantrang">
+                <!-- star div:ben trai --->
+                <div class="bentrai">
+                    <div class="menudoc">
+                        <div class="thanhmenu" id="DIV1" onclick="return DIV1_onclick()">
+                            DANH MỤC SẢN PHẨM
+                        </div>
+                        <div class="danhmucsanpham">
+                            <ul>
+                                <uc2:MenuDanhMuc ID="MenuDanhMuc1" runat="server" />
+
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="menudoc">
+                        
+                        <div class="tintuc">
+                            <img src="img/quancao.png" width="100%" height="350"/>
+
+                        </div>
+
+                    </div>
+
+                    <div class="menudoc">
+                        <div class="thanhmenu">
+                            THỐNG KÊ TRUY CẬP
+                        </div>
+                        <div style="border: 1px solid #ccc">
+                            <table border="0" cellpadding="0" cellspacing="0" style="width: 100%">
+                                <tr>
+                                    <td style="height: 16px; font-weight: bold; padding-top: 10px;" align="center" colspan="2">
+                                        <uc1:ThongKeTruyCap ID="ThongKeTruyCap1" runat="server" />
+
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="height: 18px; padding-left: 40px; font-weight: bold;"></td>
+                                    <td style="height: 18px; font-weight: bold; float: left; padding-right: 30px; padding-bottom: 5px;"></td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+
+                
+                </div>
+                <!-- end div:ben trai --->
+
+                <!-- star div:giua --->
+                <div class="giua">
+                        <div class="product">
+                        </div>
+                        <div class="sanpham">
+                            <asp:Label ID="lblchao" runat="server" Text=""></asp:Label>
+                            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                                
+                            </asp:ContentPlaceHolder>
+
+
+                        </div>
+                </div>
+                <!-- end div:giua --->
+
+                <!-- star div:ben phai --->
+                <div class="benphai">
+                    <div class="menudoc">
+                        <div class="thanhmenu">
+                            BÁN HÀNG QUA PHONE
+                        </div>
+                        <div class="muahanggoingay">
+                            <h4>Mua hàng gọi ngay:</h4>
+                            <p style="text-indent: 30px; color: Red; font-weight: bold;">Holine:016.88.767.549</p>
+                            <p style="text-indent: 30px; color: Red; font-weight: bold;">Holine:016.87.862.090</p>
+                            <hr />
+                            <p style="text-align: center; font-weight: bold; font-size: 14px;">Giao hàng tận nơi</p>
+                       
+                        </div>
+                    </div>
+                    <div class="menudoc">
+                        <img src="img/quangcao2.png "  height="350px"/>
+                    </div>
+                </div>
+                <!-- end div:ben phai --->
+  
+            </div> 
+            <!--- end div:phantrang---->
+            <div class="footer">
+                Copyright &copy;2017.
+            </div>
+
+
+        </div>
+    </form>
+</body>
+</html>

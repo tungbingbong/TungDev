@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iAkNTr4aAlGANP3CJosgRLUlK8i558kdVVdjbi/y2dQM85o2IIRtxxS5g+X3tYE+HMV8fJQ5pga8q9B0LJY2Jg==",
+  "success": true,
+  "projectFilePath": "/Users/admin/Documents/Tung Dev/WebShopOrganic/WebShopOrganic/WebShopOrganic.csproj",
+  "expectedPackageFiles": [
+    "/Users/admin/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.23/microsoft.netcore.app.host.osx-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

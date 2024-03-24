@@ -1,0 +1,5 @@
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/obj/Debug/net6.0/SocialNetworkApp.csproj.AssemblyReference.cache
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/obj/Debug/net6.0/SocialNetworkApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/obj/Debug/net6.0/SocialNetworkApp.AssemblyInfoInputs.cache
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/obj/Debug/net6.0/SocialNetworkApp.AssemblyInfo.cs
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/obj/Debug/net6.0/SocialNetworkApp.csproj.CoreCompileInputs.cache

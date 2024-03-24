@@ -1,0 +1,102 @@
+D:\repos\Sweeter\Sweeter\bin\Debug\net6.0-windows\Sweeter.exe
+D:\repos\Sweeter\Sweeter\bin\Debug\net6.0-windows\Sweeter.deps.json
+D:\repos\Sweeter\Sweeter\bin\Debug\net6.0-windows\Sweeter.runtimeconfig.json
+D:\repos\Sweeter\Sweeter\bin\Debug\net6.0-windows\Sweeter.dll
+D:\repos\Sweeter\Sweeter\bin\Debug\net6.0-windows\ref\Sweeter.dll
+D:\repos\Sweeter\Sweeter\bin\Debug\net6.0-windows\Sweeter.pdb
+D:\repos\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.csproj.AssemblyReference.cache
+D:\repos\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.Form1.resources
+D:\repos\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.csproj.GenerateResource.cache
+D:\repos\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.AssemblyInfoInputs.cache
+D:\repos\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.AssemblyInfo.cs
+D:\repos\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.csproj.CoreCompileInputs.cache
+D:\repos\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.dll
+D:\repos\Sweeter\Sweeter\obj\Debug\net6.0-windows\ref\Sweeter.dll
+D:\repos\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.pdb
+D:\repos\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.genruntimeconfig.cache
+C:\Users\YusufhanKırçova\Desktop\Sweeter\Sweeter\bin\Debug\net6.0-windows\Sweeter.exe
+C:\Users\YusufhanKırçova\Desktop\Sweeter\Sweeter\bin\Debug\net6.0-windows\Sweeter.deps.json
+C:\Users\YusufhanKırçova\Desktop\Sweeter\Sweeter\bin\Debug\net6.0-windows\Sweeter.runtimeconfig.json
+C:\Users\YusufhanKırçova\Desktop\Sweeter\Sweeter\bin\Debug\net6.0-windows\Sweeter.dll
+C:\Users\YusufhanKırçova\Desktop\Sweeter\Sweeter\bin\Debug\net6.0-windows\ref\Sweeter.dll
+C:\Users\YusufhanKırçova\Desktop\Sweeter\Sweeter\bin\Debug\net6.0-windows\Sweeter.pdb
+C:\Users\YusufhanKırçova\Desktop\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.csproj.AssemblyReference.cache
+C:\Users\YusufhanKırçova\Desktop\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.Form1.resources
+C:\Users\YusufhanKırçova\Desktop\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.csproj.GenerateResource.cache
+C:\Users\YusufhanKırçova\Desktop\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YusufhanKırçova\Desktop\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.AssemblyInfoInputs.cache
+C:\Users\YusufhanKırçova\Desktop\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.AssemblyInfo.cs
+C:\Users\YusufhanKırçova\Desktop\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.csproj.CoreCompileInputs.cache
+C:\Users\YusufhanKırçova\Desktop\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.dll
+C:\Users\YusufhanKırçova\Desktop\Sweeter\Sweeter\obj\Debug\net6.0-windows\ref\Sweeter.dll
+C:\Users\YusufhanKırçova\Desktop\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.pdb
+C:\Users\YusufhanKırçova\Desktop\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.genruntimeconfig.cache
+D:\Sweeter\Sweeter\bin\Debug\net6.0-windows\Sweeter.exe
+D:\Sweeter\Sweeter\bin\Debug\net6.0-windows\Sweeter.deps.json
+D:\Sweeter\Sweeter\bin\Debug\net6.0-windows\Sweeter.runtimeconfig.json
+D:\Sweeter\Sweeter\bin\Debug\net6.0-windows\Sweeter.dll
+D:\Sweeter\Sweeter\bin\Debug\net6.0-windows\ref\Sweeter.dll
+D:\Sweeter\Sweeter\bin\Debug\net6.0-windows\Sweeter.pdb
+D:\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.csproj.AssemblyReference.cache
+D:\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.Form1.resources
+D:\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.csproj.GenerateResource.cache
+D:\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.AssemblyInfoInputs.cache
+D:\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.AssemblyInfo.cs
+D:\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.csproj.CoreCompileInputs.cache
+D:\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.dll
+D:\Sweeter\Sweeter\obj\Debug\net6.0-windows\ref\Sweeter.dll
+D:\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.pdb
+D:\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.genruntimeconfig.cache
+C:\Users\gorkemguzeler\source\repos\Network Project\Sweeter\Sweeter\bin\Debug\net6.0-windows\Sweeter.exe
+C:\Users\gorkemguzeler\source\repos\Network Project\Sweeter\Sweeter\bin\Debug\net6.0-windows\Sweeter.deps.json
+C:\Users\gorkemguzeler\source\repos\Network Project\Sweeter\Sweeter\bin\Debug\net6.0-windows\Sweeter.runtimeconfig.json
+C:\Users\gorkemguzeler\source\repos\Network Project\Sweeter\Sweeter\bin\Debug\net6.0-windows\Sweeter.dll
+C:\Users\gorkemguzeler\source\repos\Network Project\Sweeter\Sweeter\bin\Debug\net6.0-windows\ref\Sweeter.dll
+C:\Users\gorkemguzeler\source\repos\Network Project\Sweeter\Sweeter\bin\Debug\net6.0-windows\Sweeter.pdb
+C:\Users\gorkemguzeler\source\repos\Network Project\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.csproj.AssemblyReference.cache
+C:\Users\gorkemguzeler\source\repos\Network Project\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.Form1.resources
+C:\Users\gorkemguzeler\source\repos\Network Project\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.csproj.GenerateResource.cache
+C:\Users\gorkemguzeler\source\repos\Network Project\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorkemguzeler\source\repos\Network Project\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.AssemblyInfoInputs.cache
+C:\Users\gorkemguzeler\source\repos\Network Project\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.AssemblyInfo.cs
+C:\Users\gorkemguzeler\source\repos\Network Project\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.csproj.CoreCompileInputs.cache
+C:\Users\gorkemguzeler\source\repos\Network Project\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.dll
+C:\Users\gorkemguzeler\source\repos\Network Project\Sweeter\Sweeter\obj\Debug\net6.0-windows\ref\Sweeter.dll
+C:\Users\gorkemguzeler\source\repos\Network Project\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.pdb
+C:\Users\gorkemguzeler\source\repos\Network Project\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.genruntimeconfig.cache
+\\Mac\Home\Desktop\Network Project-2\Network Project-2\Sweeter\Sweeter\bin\Debug\net6.0-windows\Sweeter.exe
+\\Mac\Home\Desktop\Network Project-2\Network Project-2\Sweeter\Sweeter\bin\Debug\net6.0-windows\Sweeter.deps.json
+\\Mac\Home\Desktop\Network Project-2\Network Project-2\Sweeter\Sweeter\bin\Debug\net6.0-windows\Sweeter.runtimeconfig.json
+\\Mac\Home\Desktop\Network Project-2\Network Project-2\Sweeter\Sweeter\bin\Debug\net6.0-windows\Sweeter.dll
+\\Mac\Home\Desktop\Network Project-2\Network Project-2\Sweeter\Sweeter\bin\Debug\net6.0-windows\ref\Sweeter.dll
+\\Mac\Home\Desktop\Network Project-2\Network Project-2\Sweeter\Sweeter\bin\Debug\net6.0-windows\Sweeter.pdb
+\\Mac\Home\Desktop\Network Project-2\Network Project-2\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Network Project-2\Network Project-2\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.Form1.resources
+\\Mac\Home\Desktop\Network Project-2\Network Project-2\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Network Project-2\Network Project-2\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Network Project-2\Network Project-2\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Network Project-2\Network Project-2\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.AssemblyInfo.cs
+\\Mac\Home\Desktop\Network Project-2\Network Project-2\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Network Project-2\Network Project-2\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.dll
+\\Mac\Home\Desktop\Network Project-2\Network Project-2\Sweeter\Sweeter\obj\Debug\net6.0-windows\ref\Sweeter.dll
+\\Mac\Home\Desktop\Network Project-2\Network Project-2\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.pdb
+\\Mac\Home\Desktop\Network Project-2\Network Project-2\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.genruntimeconfig.cache
+C:\Users\YusufhanKırçova\Desktop\Network Project-2\Network Project-2\Sweeter\Sweeter\bin\Debug\net6.0-windows\Sweeter.exe
+C:\Users\YusufhanKırçova\Desktop\Network Project-2\Network Project-2\Sweeter\Sweeter\bin\Debug\net6.0-windows\Sweeter.deps.json
+C:\Users\YusufhanKırçova\Desktop\Network Project-2\Network Project-2\Sweeter\Sweeter\bin\Debug\net6.0-windows\Sweeter.runtimeconfig.json
+C:\Users\YusufhanKırçova\Desktop\Network Project-2\Network Project-2\Sweeter\Sweeter\bin\Debug\net6.0-windows\Sweeter.dll
+C:\Users\YusufhanKırçova\Desktop\Network Project-2\Network Project-2\Sweeter\Sweeter\bin\Debug\net6.0-windows\ref\Sweeter.dll
+C:\Users\YusufhanKırçova\Desktop\Network Project-2\Network Project-2\Sweeter\Sweeter\bin\Debug\net6.0-windows\Sweeter.pdb
+C:\Users\YusufhanKırçova\Desktop\Network Project-2\Network Project-2\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.csproj.AssemblyReference.cache
+C:\Users\YusufhanKırçova\Desktop\Network Project-2\Network Project-2\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.Form1.resources
+C:\Users\YusufhanKırçova\Desktop\Network Project-2\Network Project-2\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.csproj.GenerateResource.cache
+C:\Users\YusufhanKırçova\Desktop\Network Project-2\Network Project-2\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YusufhanKırçova\Desktop\Network Project-2\Network Project-2\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.AssemblyInfoInputs.cache
+C:\Users\YusufhanKırçova\Desktop\Network Project-2\Network Project-2\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.AssemblyInfo.cs
+C:\Users\YusufhanKırçova\Desktop\Network Project-2\Network Project-2\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.csproj.CoreCompileInputs.cache
+C:\Users\YusufhanKırçova\Desktop\Network Project-2\Network Project-2\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.dll
+C:\Users\YusufhanKırçova\Desktop\Network Project-2\Network Project-2\Sweeter\Sweeter\obj\Debug\net6.0-windows\ref\Sweeter.dll
+C:\Users\YusufhanKırçova\Desktop\Network Project-2\Network Project-2\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.pdb
+C:\Users\YusufhanKırçova\Desktop\Network Project-2\Network Project-2\Sweeter\Sweeter\obj\Debug\net6.0-windows\Sweeter.genruntimeconfig.cache

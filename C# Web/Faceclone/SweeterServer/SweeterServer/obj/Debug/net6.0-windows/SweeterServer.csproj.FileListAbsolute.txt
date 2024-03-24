@@ -1,0 +1,68 @@
+C:\Users\gorkemguzeler\source\repos\SweeterServer\SweeterServer\bin\Debug\net6.0-windows\SweeterServer.exe
+C:\Users\gorkemguzeler\source\repos\SweeterServer\SweeterServer\bin\Debug\net6.0-windows\SweeterServer.deps.json
+C:\Users\gorkemguzeler\source\repos\SweeterServer\SweeterServer\bin\Debug\net6.0-windows\SweeterServer.runtimeconfig.json
+C:\Users\gorkemguzeler\source\repos\SweeterServer\SweeterServer\bin\Debug\net6.0-windows\SweeterServer.dll
+C:\Users\gorkemguzeler\source\repos\SweeterServer\SweeterServer\bin\Debug\net6.0-windows\ref\SweeterServer.dll
+C:\Users\gorkemguzeler\source\repos\SweeterServer\SweeterServer\bin\Debug\net6.0-windows\SweeterServer.pdb
+C:\Users\gorkemguzeler\source\repos\SweeterServer\SweeterServer\obj\Debug\net6.0-windows\SweeterServer.csproj.AssemblyReference.cache
+C:\Users\gorkemguzeler\source\repos\SweeterServer\SweeterServer\obj\Debug\net6.0-windows\SweeterServer.Form1.resources
+C:\Users\gorkemguzeler\source\repos\SweeterServer\SweeterServer\obj\Debug\net6.0-windows\SweeterServer.csproj.GenerateResource.cache
+C:\Users\gorkemguzeler\source\repos\SweeterServer\SweeterServer\obj\Debug\net6.0-windows\SweeterServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorkemguzeler\source\repos\SweeterServer\SweeterServer\obj\Debug\net6.0-windows\SweeterServer.AssemblyInfoInputs.cache
+C:\Users\gorkemguzeler\source\repos\SweeterServer\SweeterServer\obj\Debug\net6.0-windows\SweeterServer.AssemblyInfo.cs
+C:\Users\gorkemguzeler\source\repos\SweeterServer\SweeterServer\obj\Debug\net6.0-windows\SweeterServer.csproj.CoreCompileInputs.cache
+C:\Users\gorkemguzeler\source\repos\SweeterServer\SweeterServer\obj\Debug\net6.0-windows\SweeterServer.dll
+C:\Users\gorkemguzeler\source\repos\SweeterServer\SweeterServer\obj\Debug\net6.0-windows\ref\SweeterServer.dll
+C:\Users\gorkemguzeler\source\repos\SweeterServer\SweeterServer\obj\Debug\net6.0-windows\SweeterServer.pdb
+C:\Users\gorkemguzeler\source\repos\SweeterServer\SweeterServer\obj\Debug\net6.0-windows\SweeterServer.genruntimeconfig.cache
+C:\Users\gorkemguzeler\source\repos\Network Project\SweeterServer\SweeterServer\bin\Debug\net6.0-windows\SweeterServer.exe
+C:\Users\gorkemguzeler\source\repos\Network Project\SweeterServer\SweeterServer\bin\Debug\net6.0-windows\SweeterServer.deps.json
+C:\Users\gorkemguzeler\source\repos\Network Project\SweeterServer\SweeterServer\bin\Debug\net6.0-windows\SweeterServer.runtimeconfig.json
+C:\Users\gorkemguzeler\source\repos\Network Project\SweeterServer\SweeterServer\bin\Debug\net6.0-windows\SweeterServer.dll
+C:\Users\gorkemguzeler\source\repos\Network Project\SweeterServer\SweeterServer\bin\Debug\net6.0-windows\ref\SweeterServer.dll
+C:\Users\gorkemguzeler\source\repos\Network Project\SweeterServer\SweeterServer\bin\Debug\net6.0-windows\SweeterServer.pdb
+C:\Users\gorkemguzeler\source\repos\Network Project\SweeterServer\SweeterServer\obj\Debug\net6.0-windows\SweeterServer.csproj.AssemblyReference.cache
+C:\Users\gorkemguzeler\source\repos\Network Project\SweeterServer\SweeterServer\obj\Debug\net6.0-windows\SweeterServer.Form1.resources
+C:\Users\gorkemguzeler\source\repos\Network Project\SweeterServer\SweeterServer\obj\Debug\net6.0-windows\SweeterServer.csproj.GenerateResource.cache
+C:\Users\gorkemguzeler\source\repos\Network Project\SweeterServer\SweeterServer\obj\Debug\net6.0-windows\SweeterServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorkemguzeler\source\repos\Network Project\SweeterServer\SweeterServer\obj\Debug\net6.0-windows\SweeterServer.AssemblyInfoInputs.cache
+C:\Users\gorkemguzeler\source\repos\Network Project\SweeterServer\SweeterServer\obj\Debug\net6.0-windows\SweeterServer.AssemblyInfo.cs
+C:\Users\gorkemguzeler\source\repos\Network Project\SweeterServer\SweeterServer\obj\Debug\net6.0-windows\SweeterServer.csproj.CoreCompileInputs.cache
+C:\Users\gorkemguzeler\source\repos\Network Project\SweeterServer\SweeterServer\obj\Debug\net6.0-windows\SweeterServer.dll
+C:\Users\gorkemguzeler\source\repos\Network Project\SweeterServer\SweeterServer\obj\Debug\net6.0-windows\ref\SweeterServer.dll
+C:\Users\gorkemguzeler\source\repos\Network Project\SweeterServer\SweeterServer\obj\Debug\net6.0-windows\SweeterServer.pdb
+C:\Users\gorkemguzeler\source\repos\Network Project\SweeterServer\SweeterServer\obj\Debug\net6.0-windows\SweeterServer.genruntimeconfig.cache
+\\Mac\Home\Desktop\Network Project-2\Network Project-2\SweeterServer\SweeterServer\bin\Debug\net6.0-windows\SweeterServer.exe
+\\Mac\Home\Desktop\Network Project-2\Network Project-2\SweeterServer\SweeterServer\bin\Debug\net6.0-windows\SweeterServer.deps.json
+\\Mac\Home\Desktop\Network Project-2\Network Project-2\SweeterServer\SweeterServer\bin\Debug\net6.0-windows\SweeterServer.runtimeconfig.json
+\\Mac\Home\Desktop\Network Project-2\Network Project-2\SweeterServer\SweeterServer\bin\Debug\net6.0-windows\SweeterServer.dll
+\\Mac\Home\Desktop\Network Project-2\Network Project-2\SweeterServer\SweeterServer\bin\Debug\net6.0-windows\ref\SweeterServer.dll
+\\Mac\Home\Desktop\Network Project-2\Network Project-2\SweeterServer\SweeterServer\bin\Debug\net6.0-windows\SweeterServer.pdb
+\\Mac\Home\Desktop\Network Project-2\Network Project-2\SweeterServer\SweeterServer\obj\Debug\net6.0-windows\SweeterServer.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Network Project-2\Network Project-2\SweeterServer\SweeterServer\obj\Debug\net6.0-windows\SweeterServer.Form1.resources
+\\Mac\Home\Desktop\Network Project-2\Network Project-2\SweeterServer\SweeterServer\obj\Debug\net6.0-windows\SweeterServer.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Network Project-2\Network Project-2\SweeterServer\SweeterServer\obj\Debug\net6.0-windows\SweeterServer.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Network Project-2\Network Project-2\SweeterServer\SweeterServer\obj\Debug\net6.0-windows\SweeterServer.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Network Project-2\Network Project-2\SweeterServer\SweeterServer\obj\Debug\net6.0-windows\SweeterServer.AssemblyInfo.cs
+\\Mac\Home\Desktop\Network Project-2\Network Project-2\SweeterServer\SweeterServer\obj\Debug\net6.0-windows\SweeterServer.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Network Project-2\Network Project-2\SweeterServer\SweeterServer\obj\Debug\net6.0-windows\SweeterServer.dll
+\\Mac\Home\Desktop\Network Project-2\Network Project-2\SweeterServer\SweeterServer\obj\Debug\net6.0-windows\ref\SweeterServer.dll
+\\Mac\Home\Desktop\Network Project-2\Network Project-2\SweeterServer\SweeterServer\obj\Debug\net6.0-windows\SweeterServer.pdb
+\\Mac\Home\Desktop\Network Project-2\Network Project-2\SweeterServer\SweeterServer\obj\Debug\net6.0-windows\SweeterServer.genruntimeconfig.cache
+C:\Users\YusufhanKırçova\Desktop\Network Project-2\Network Project-2\SweeterServer\SweeterServer\bin\Debug\net6.0-windows\SweeterServer.exe
+C:\Users\YusufhanKırçova\Desktop\Network Project-2\Network Project-2\SweeterServer\SweeterServer\bin\Debug\net6.0-windows\SweeterServer.deps.json
+C:\Users\YusufhanKırçova\Desktop\Network Project-2\Network Project-2\SweeterServer\SweeterServer\bin\Debug\net6.0-windows\SweeterServer.runtimeconfig.json
+C:\Users\YusufhanKırçova\Desktop\Network Project-2\Network Project-2\SweeterServer\SweeterServer\bin\Debug\net6.0-windows\SweeterServer.dll
+C:\Users\YusufhanKırçova\Desktop\Network Project-2\Network Project-2\SweeterServer\SweeterServer\bin\Debug\net6.0-windows\ref\SweeterServer.dll
+C:\Users\YusufhanKırçova\Desktop\Network Project-2\Network Project-2\SweeterServer\SweeterServer\bin\Debug\net6.0-windows\SweeterServer.pdb
+C:\Users\YusufhanKırçova\Desktop\Network Project-2\Network Project-2\SweeterServer\SweeterServer\obj\Debug\net6.0-windows\SweeterServer.csproj.AssemblyReference.cache
+C:\Users\YusufhanKırçova\Desktop\Network Project-2\Network Project-2\SweeterServer\SweeterServer\obj\Debug\net6.0-windows\SweeterServer.Form1.resources
+C:\Users\YusufhanKırçova\Desktop\Network Project-2\Network Project-2\SweeterServer\SweeterServer\obj\Debug\net6.0-windows\SweeterServer.csproj.GenerateResource.cache
+C:\Users\YusufhanKırçova\Desktop\Network Project-2\Network Project-2\SweeterServer\SweeterServer\obj\Debug\net6.0-windows\SweeterServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YusufhanKırçova\Desktop\Network Project-2\Network Project-2\SweeterServer\SweeterServer\obj\Debug\net6.0-windows\SweeterServer.AssemblyInfoInputs.cache
+C:\Users\YusufhanKırçova\Desktop\Network Project-2\Network Project-2\SweeterServer\SweeterServer\obj\Debug\net6.0-windows\SweeterServer.AssemblyInfo.cs
+C:\Users\YusufhanKırçova\Desktop\Network Project-2\Network Project-2\SweeterServer\SweeterServer\obj\Debug\net6.0-windows\SweeterServer.csproj.CoreCompileInputs.cache
+C:\Users\YusufhanKırçova\Desktop\Network Project-2\Network Project-2\SweeterServer\SweeterServer\obj\Debug\net6.0-windows\SweeterServer.dll
+C:\Users\YusufhanKırçova\Desktop\Network Project-2\Network Project-2\SweeterServer\SweeterServer\obj\Debug\net6.0-windows\ref\SweeterServer.dll
+C:\Users\YusufhanKırçova\Desktop\Network Project-2\Network Project-2\SweeterServer\SweeterServer\obj\Debug\net6.0-windows\SweeterServer.pdb
+C:\Users\YusufhanKırçova\Desktop\Network Project-2\Network Project-2\SweeterServer\SweeterServer\obj\Debug\net6.0-windows\SweeterServer.genruntimeconfig.cache

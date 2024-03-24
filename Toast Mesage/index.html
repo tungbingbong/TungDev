@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <title>Toast Message </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="style.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer"
+    />
+</head>
+
+<body>
+    <div id="toast"></div>
+
+    <div>
+        <div onclick="showSuccessToast();" class="btn btn--success">Show success toast</div>
+        <div onclick="showErrorToast();" class="btn btn--error">Show error toast</div>
+    </div>
+
+    <script>
+        function showSuccessToast() {
+            toast({
+                title: "Success!",
+                message: "You have signed up F8 account successfully!",
+                type: "success",
+                duration: 5000
+            });
+        }
+
+
+        function showErrorToast() {
+            toast({
+                title: "Something Wrong!",
+                message: "An error occurred, please review your login information",
+                type: "error",
+                duration: 5000
+            });
+        }
+    </script>
+
+    <script src="main.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,210 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&family=Poppins:wght@400;500&family=Spartan:wght@400;700&display=swap');
+
+:root {
+    --mercury-color: #419EBB;
+    --venus-color: #eda249;
+    --earth-color: #6f2ed6;
+    --mars-color: #d14c32;
+    --jupiter-color: #d83a34;
+    --saturn-color: #cd5120;
+    --uranus-color: #1ec2a4;
+    --neptune-color: #2d68f0;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Spartan', sans-serif;
+}
+
+body {
+    background: url('../assets/background-stars.svg');
+    background-color: #070724;
+    min-height: 100vh;
+    width: 100%;
+}
+
+.header {
+    min-height: 85px;
+    border-bottom: 2px solid rgba(151, 151, 151, 0.2);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 8%;
+}
+
+.header__logo {
+    color: #fff;
+}
+
+.nav {
+    display: flex;
+    gap: 32px;
+    list-style: none;
+}
+
+.nav__item {
+    position: relative;
+}
+
+.nav__link::after {
+    content: "";
+    position: absolute;
+    color: #fff;
+    width: 100%;
+    height: 4px;
+    top: 0;
+    left: 0;
+    visibility: hidden;
+}
+
+.nav__item:nth-child(1) .nav__link::after {
+    background-color: var(--mercury-color);
+}
+
+.nav__item:nth-child(2) .nav__link::after {
+    background-color: var(--venus-color);
+}
+
+.nav__item:nth-child(3) .nav__link::after {
+    background-color: var(--earth-color);
+}
+
+.nav__item:nth-child(4) .nav__link::after {
+    background-color: var(--mars-color);
+}
+
+.nav__item:nth-child(5) .nav__link::after {
+    background-color: var(--jupiter-color);
+}
+
+.nav__item:nth-child(6) .nav__link::after {
+    background-color: var(--saturn-color);
+}
+
+.nav__item:nth-child(7) .nav__link::after {
+    background-color: var(--uranus-color);
+}
+
+.nav__item:nth-child(8) .nav__link::after {
+    background-color: var(--neptune-color);
+}
+
+.nav__item:hover .nav__link::after {
+    visibility: visible;
+}
+
+.nav__item.active .nav__link::after{
+    visibility: visible;
+}
+
+.nav__link {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgba(255, 255, 255, 0.75);
+    font-size: 12px;
+    padding: 34px 0;
+    display: inline-block;
+}
+
+.container {
+    padding: 80px 115px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: Poppins;
+}
+
+.container-left {
+    width: 60%;
+    text-align: center;
+}
+
+.container-right {
+    width: 40%;
+
+}
+
+.planet-name {
+    color: #fff;
+    font-size: 64px;
+}
+
+.content {
+    color: #ccc;
+    font-size: 14px;
+    text-align: justify;
+    margin-bottom: 24px;
+    width: 80%;
+}
+
+.wrapper-source {
+    color: #707070;
+    margin-bottom: 24px;
+
+}
+
+.source {
+    color: #707070;
+}
+
+.display-list {
+    width: 80%;
+}
+
+.display-item {
+    width: 100%;
+    height: 50px;
+    padding: 0 12px;
+    border: 1px solid rgba(216, 216, 216, 0.2);
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    color: #fff;
+    letter-spacing: 2px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    background-color: #070724;
+}
+
+.display-item:hover {
+    background-color: rgba(255, 255, 255, 0.3) !important;
+}
+
+.display-item.active {
+    /* background-color: var(--mercury-color); */
+}
+
+.display-item + .display-item {
+    margin-top: 16px;
+}
+
+.number {
+    color: #707070;
+}
+
+.footer {
+    display: flex;
+    gap: 64px;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 32px;
+}
+
+.footer div {
+    padding: 15px 60px 30px 15px;
+    border: 1px solid #707070;
+    color: #fff;
+}
+
+.footer div h5 {
+    color: #707070;
+}
+
+.footer div h3 {
+    margin-top: 24px;
+}

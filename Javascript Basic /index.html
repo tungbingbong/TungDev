@@ -1,0 +1,75 @@
+<!DOCTYPE HTML>
+
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="style.css">
+    <title>HTML DOM</title>
+    <style>
+        ul {
+            display: none;
+        }
+        
+        input:focus~ul {
+            display: block;
+        }
+    </style>
+</head>
+<!-- Show Content -->
+
+<body>
+    <!-- DOM -->
+    <div class="box"></div>
+    <button type="button" class="but">Reading</button>
+    <br>
+    <!-- DOM Events -->
+    <input type="text">
+    <input type="checkbox">
+    <select>
+        <option value="1">PHP</option>
+        <option value="2">JavaScript</option>
+        <option value="3">ReactJS</option>
+    </select>
+    <br>
+    <!-- DOM Events with Stop Propagation and Prevent Default -->
+    <a href="http://f8.edu.vn">Learn Programing via F8 </a>
+    <br>
+    <a href="http://google.com.vn">Search</a>
+    <br>
+    <input type="text" placeholder="Search" />
+    <br>
+    <ul>
+        <li>Dart</li>
+        <li>Java</li>
+        <li>GoLang</li>
+    </ul>
+    <!-- Stop Propagation -->
+    <br>
+    <div class="Prop">
+        DIV
+
+        <button class="btnProp">Click Me!</button>
+        <button id="btn" text="text-primary">Alert!!!</button>
+    </div>
+    <br>
+    <ul id="comment-block">
+
+    </ul>
+    <br>
+    <ul id="post-block">
+
+    </ul>
+</body>
+
+<script type="module" src="./main.js"></script>
+
+<script type="module" src="./app.js"></script>
+
+<script type="module" src="./logger.js"></script>
+
+
+
+
+</html>

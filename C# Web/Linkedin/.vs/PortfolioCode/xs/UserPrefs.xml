@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{42E1DD51-8B6F-4483-AD73-43210D95659B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="API/Controllers/RestaurantsController.cs">
+    <Files>
+      <File FileName="Persistence/DataContext.cs" Line="3" Column="17" />
+      <File FileName="Persistence/Migrations/20191031102848_FirstCreate.cs" />
+      <File FileName="Persistence/Migrations/20191031104545_SeedValues.cs" />
+      <File FileName="API/Startup.cs" Line="12" Column="42" />
+      <File FileName="API/Controllers/RestaurantsController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PortfolioCode" expanded="True">
+            <Node name="Solution Items" expanded="True" />
+            <Node name="API" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="RestaurantsController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

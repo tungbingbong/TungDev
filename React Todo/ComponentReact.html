@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>ReactComponent F8</title>
+    <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+    <script crossorigin src="https://unpkg.com/react@17.0.0/umd/react.production.min.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@17.0.0/umd/react-dom.production.min.js"></script>
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+            font-family: 'Nutito', sans-serif;
+        }
+
+        .button {
+            border: 0;
+            padding: 10px 20px;
+            margin: 100px auto;
+            display: block;
+            background-color: #F62682;
+            color: white;
+            font-size: 15px;
+            font-weight: 600;
+            box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+            border-radius: 10px;
+            text-decoration: none;
+            max-width: fit-content;
+            white-space: nowrap;
+            transition: 0.6s ease;
+        }
+
+        .button:hover {
+            background-color: black;
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div id="root"></div>
+    <div id="app"></div>
+    <script type="text/babel">
+
+        function Button({ title, href, onclick }) {
+            const objBtn = {}
+            let TypeButton = 'button'
+            if (href) {
+                TypeButton = 'a'
+                objBtn.href = href
+            }
+            if (onclick) {
+                objBtn.onClick = onclick
+            }
+            return <TypeButton className="button" {...objBtn}>
+                {title}
+            </TypeButton>
+        }
+
+        function App() {
+            return <div className="wrapper">
+                <Button title="Click here !"
+                    onclick={() => alert('Hello chicken')}
+                    href="https://www.facebook.com/tung.raptor.1"
+                />
+            </div>
+        }
+
+        ReactDOM.render(<App />, document.querySelector("#app"));
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Validation Version 2</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <div class="main">
+        <!-- Form register -->
+        <form action="" method="POST" class="form" id="register__form">
+
+            <h3 class="heading">Register Form Website</h3>
+            <p class="desc">Let's together learning via F8 ❤️</p>
+
+            <div class="spacer"></div>
+
+            <div class="form-group">
+                <label for="fullname" class="form-label">FullName</label>
+                <input id="fullname" name="fullname" rules="required" type="text" placeholder="VD: Re-enter the password" class="form-control">
+
+                <span class="form-message"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="email" class="form-label">Email</label>
+                <input id="email" name="email" rules="required|email" type="text" placeholder="VD: email@domain.com" class="form-control">
+
+                <span class="form-message"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="password" class="form-label">Password</label>
+                <input id="password" name="password" rules="required|min:6" type="password" placeholder="Enter the password" class="form-control">
+
+                <span class="form-message"></span>
+            </div>
+
+            <!-- <div class="form-group">
+                <label for="password_confirmation" class="form-label">Re-enter the password</label>
+                <input id="password_confirmation" name="password_confirmation" rules="required|password_confirmation" placeholder="Re-enter the password" type="password" class="form-control">
+           
+                <span class="form-message"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="province" class="form-label">Province/City</label>
+                <select id="province" name="province" rules="required" class="form-control">
+                    <option value="">---Select Province/City---</option>
+                    <option value="hn">Hà Nội</option>
+                    <option value="hcm">TP. HCM</option>
+                    <option value="hp">Hải Phòng</option>
+                </select>
+           
+                <span class="form-message"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="password_confirmation" class="form-label">Gender</label>
+
+                <div class="radio__container">
+                    <input name="gender" rules="check" type="radio" value="male" class="form-control radio__field">
+                    <span class="radio__title">Male</span>
+                </div>
+
+                <div class="radio__container">
+                    <input name="gender" rules="check" type="radio" value="female" class="form-control radio__field">
+                    <span class="radio__title">Female</span>
+                </div>
+
+                <div class="radio__container">
+                    <input name="gender" rules="check" type="radio" value="other" class="form-control radio__field">
+                    <span class="radio__title">Others</span>
+                </div>
+                <span class="form-message"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="roadmap" class="form-label">Roadmap for you ?</label>
+                <div class="radio__container">
+                    <input name="interest" type="checkbox" rules="check" value="FE" class="form-control radio__field">
+                    <span class="radio__title">Front-end</span>
+                </div>
+
+                <div class="radio__container">
+                    <input name="interest" type="checkbox" rules="check" value="BE" class="form-control radio__field">
+                    <span class="radio__title">Back-end</span>
+                </div>
+
+                <div class="radio__container">
+                    <input name="interest" type="checkbox" rules="check" value="All" class="form-control radio__field">
+                    <span class="radio__title">Fullstack</span>
+                </div>
+
+                <span class="form-message"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="avatar" class="form-label">Choose the avatar</label>
+                <input id="avatar" rules="required" name="avatar" type="file" placeholder="VD: Tung KeslyKoman" class="form-control">
+           
+                <span class="form-message"></span>
+            </div>
+ -->
+
+
+            <button class="form-submit">Register</button>
+        </form>
+
+        <form action="" method="POST" class="form" id="login__form">
+
+            <h3 class="heading">Login</h3>
+            <p class="desc">Let's together learning via F8 ❤️</p>
+
+            <div class="spacer"></div>
+
+
+            <div class="form-group">
+                <label for="email" class="form-label">Email</label>
+                <input id="email2" name="email" rules="required|email" type="text" placeholder="VD: email@domain.com" class="form-control">
+
+                <span class="form-message"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="password" class="form-label">Password</label>
+                <input id="password2" name="password" rules="required|password" type="password" placeholder="Enter your password" class="form-control">
+
+                <span class="form-message"></span>
+            </div>
+
+            <button class="form-submit">Login</button>
+        </form>
+
+
+        <!-- end form -->
+    </div>
+    <!-- Javascript source -->
+    <script src="main.js"></script>
+    <script>
+        var form = new Validator('#register__form');
+
+        form.onSubmit = function(formData) {
+            console.log(formData);
+        }
+    </script>
+</body>
+
+</html>

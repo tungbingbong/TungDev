@@ -1,0 +1,122 @@
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/SocialNetworkApp.dll
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/SocialNetworkApp.pdb
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/Antlr3.Runtime.dll
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/Castle.Core.dll
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/DotNetOpenAuth.AspNet.dll
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/DotNetOpenAuth.Core.dll
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/DotNetOpenAuth.OAuth.Consumer.dll
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/DotNetOpenAuth.OAuth.dll
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/DotNetOpenAuth.OpenId.dll
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/DotNetOpenAuth.OpenId.RelyingParty.dll
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/EntityFramework.dll
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/Microsoft.Web.Infrastructure.dll
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/Microsoft.Web.WebPages.OAuth.dll
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/Newtonsoft.Json.dll
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/System.Net.Http.dll
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/System.Net.Http.Formatting.dll
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/System.Net.Http.WebRequest.dll
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/System.Web.Helpers.dll
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/System.Web.Http.dll
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/System.Web.Http.WebHost.dll
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/System.Web.Mvc.dll
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/System.Web.Optimization.dll
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/System.Web.Razor.dll
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/System.Web.WebPages.Deployment.dll
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/System.Web.WebPages.dll
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/System.Web.WebPages.Razor.dll
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/WebDriver.dll
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/WebDriver.Support.dll
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/WebGrease.dll
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/WebMatrix.Data.dll
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/WebMatrix.WebData.dll
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/Castle.Core.xml
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/EntityFramework.xml
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/Newtonsoft.Json.xml
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/System.Net.Http.xml
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/System.Net.Http.Formatting.xml
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/System.Net.Http.WebRequest.xml
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/System.Web.Helpers.xml
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/System.Web.Http.xml
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/System.Web.Http.WebHost.xml
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/System.Web.Mvc.xml
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/System.Web.Razor.xml
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/System.Web.WebPages.xml
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/System.Web.WebPages.Deployment.xml
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/System.Web.WebPages.Razor.xml
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/WebDriver.xml
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/WebDriver.Support.xml
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/WebMatrix.Data.xml
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/Microsoft.Web.WebPages.OAuth.xml
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/WebMatrix.WebData.xml
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/DotNetOpenAuth.AspNet.xml
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/DotNetOpenAuth.Core.xml
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/DotNetOpenAuth.OAuth.Consumer.xml
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/DotNetOpenAuth.OAuth.xml
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/DotNetOpenAuth.OpenId.xml
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/bin/DotNetOpenAuth.OpenId.RelyingParty.xml
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/obj/Debug/SocialNetworkApp.csproj.AssemblyReference.cache
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/obj/Debug/SocialNetworkApp.csproj.CoreCompileInputs.cache
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/obj/Debug/SocialNetworkApp.csproj.CopyComplete
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/obj/Debug/SocialNetworkApp.dll
+/Users/admin/Downloads/SocialNetworkApp-master/SocialNetworkApp/obj/Debug/SocialNetworkApp.pdb
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/SocialNetworkApp.dll
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/SocialNetworkApp.pdb
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/Antlr3.Runtime.dll
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/Castle.Core.dll
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/DotNetOpenAuth.AspNet.dll
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/DotNetOpenAuth.Core.dll
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/DotNetOpenAuth.OAuth.Consumer.dll
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/DotNetOpenAuth.OAuth.dll
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/DotNetOpenAuth.OpenId.dll
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/DotNetOpenAuth.OpenId.RelyingParty.dll
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/EntityFramework.dll
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/Microsoft.Web.Infrastructure.dll
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/Microsoft.Web.WebPages.OAuth.dll
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/Newtonsoft.Json.dll
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/System.Net.Http.dll
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/System.Net.Http.Formatting.dll
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/System.Net.Http.WebRequest.dll
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/System.Web.Helpers.dll
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/System.Web.Http.dll
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/System.Web.Http.WebHost.dll
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/System.Web.Mvc.dll
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/System.Web.Optimization.dll
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/System.Web.Razor.dll
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/System.Web.WebPages.Deployment.dll
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/System.Web.WebPages.dll
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/System.Web.WebPages.Razor.dll
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/WebDriver.dll
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/WebDriver.Support.dll
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/WebGrease.dll
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/WebMatrix.Data.dll
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/WebMatrix.WebData.dll
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/Castle.Core.xml
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/EntityFramework.xml
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/Newtonsoft.Json.xml
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/System.Net.Http.xml
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/System.Net.Http.Formatting.xml
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/System.Net.Http.WebRequest.xml
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/System.Web.Helpers.xml
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/System.Web.Http.xml
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/System.Web.Http.WebHost.xml
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/System.Web.Mvc.xml
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/System.Web.Razor.xml
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/System.Web.WebPages.xml
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/System.Web.WebPages.Deployment.xml
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/System.Web.WebPages.Razor.xml
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/WebDriver.xml
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/WebDriver.Support.xml
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/WebMatrix.Data.xml
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/Microsoft.Web.WebPages.OAuth.xml
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/WebMatrix.WebData.xml
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/DotNetOpenAuth.AspNet.xml
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/DotNetOpenAuth.Core.xml
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/DotNetOpenAuth.OAuth.Consumer.xml
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/DotNetOpenAuth.OAuth.xml
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/DotNetOpenAuth.OpenId.xml
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/bin/DotNetOpenAuth.OpenId.RelyingParty.xml
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/obj/Debug/SocialNetworkApp.csproj.AssemblyReference.cache
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/obj/Debug/SocialNetworkApp.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/obj/Debug/SocialNetworkApp.csproj.CopyComplete
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/obj/Debug/SocialNetworkApp.dll
+/Users/admin/Documents/Tung Dev/C# Web/SocialNetworkApp/SocialNetworkApp/obj/Debug/SocialNetworkApp.pdb

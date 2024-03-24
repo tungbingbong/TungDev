@@ -1,0 +1,121 @@
+body {
+    font-family: arial, sans-serif;
+    color: #646F76;
+}
+
+
+
+a {
+    text-decoration: none;
+    color: #33383C;
+}
+
+
+
+#canvas {
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 480px;
+    margin-top: 0px;
+    border-radius: 5px;
+    background-color: #EDEFF1;
+    border-radius: 5px;
+    padding: 30px;
+}
+
+
+
+#heading_top {
+    text-align: center;
+    display: block;
+    font-size: 23px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #d3d3d3;
+}
+
+
+
+.details_and_back {
+    text-align: center;
+    display: block;
+    font-size: 15px;
+    padding-top: 15px;
+}
+
+
+
+.main_btn_class {
+    width: 100%;
+    height: 35px;
+    border-radius: 5px;
+    margin-top: 15px;
+    text-align: center;
+    padding-top: 15px;
+    color: white;
+    cursor: pointer;
+}
+
+
+
+#bnz {
+    background-color: #3598db;
+}
+
+
+
+#westpac {
+    background-color: #FE4E42;
+}
+
+
+
+#seperator {
+    width: 100%;
+    height: 1px;
+    margin-top: 25px;
+    background-color: #d3d3d3;
+    box-shadow: 0 1px #fff;
+}
+
+
+
+.login_input_text {
+    height: 40px;
+    width: 100%;
+    margin-top: 15px;
+    border-radius: 5px;
+    box-shadow: none;
+    border: none;
+    font-size: 16px;
+    padding-left: 10px;
+}
+
+
+
+#sign_up_end_btn {
+    background-color: #00C176;
+}
+
+
+
+#close_button {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 20px;
+    margin-bottom: -16px;
+    cursor: pointer;
+}
+
+
+
+:focus {
+    outline: none;   
+}
+
+
+
+.main_btn_class:hover {
+    opacity: 0.8;
+}

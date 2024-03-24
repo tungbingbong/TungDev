@@ -1,0 +1,44 @@
+{
+    "Coding": [{
+            "id": 1,
+            "name": "HTML & CSS from Zero to Hero",
+            "description": "In this course we will build the interface of 2 websites together, The Band & Shopee."
+
+        },
+        {
+            "id": "2",
+            "name": "Responsive With Grid System",
+            "description": "n this course we will learn about how to build a responsive web interface with Grid System, similar to Bootstrap 4."
+
+        },
+        {
+            "id": "3",
+            "name": "Advanced Javascript Programing",
+            "description": "Get a deeper understanding of how Javascript works, learn about IIFE, closure, reference types, this keyword, bind, call, apply, prototype, ..."
+
+        },
+        {
+            "id": "4",
+            "name": "Build Web with NodeJS & ExpressJS",
+            "description": "Learn back-end with the Node &amp; ExpressJS framework, understand the concepts of back-end work, and build a RESTful API for the site."
+
+        },
+        {
+            "id": "5",
+            "name": "Basic Javascript Programing",
+            "description": "Get a deeper understanding of how Javascript works, learn about IIFE, closure, reference types, this keyword, bind, call, apply, prototype, ..."
+
+        },
+        {
+            "id": "6",
+            "name": "Build website with ReactJS",
+            "description": "ReactJS course from basic to advanced, after this course you can do most of the projects commonly encountered with ReactJS."
+
+        },
+        {
+            "id": "7",
+            "name": "Working with Terminal and Ubuntu",
+            "description": "Owning a modern terminal, powerful in customization and learning how to work with Ubuntu is an important step on the path to becoming a Web Developer."
+        }
+    ]
+}

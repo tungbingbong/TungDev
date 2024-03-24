@@ -1,0 +1,15 @@
+﻿.button {
+    color: blue;
+    display: inline-block;
+    text-align: center;
+    margin-left: 200px;
+}
+
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.bg-grey {
+    background-color: lightgray;
+}

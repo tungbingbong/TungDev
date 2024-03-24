@@ -1,0 +1,18 @@
+<img id="mvi-thumb-data" src="DÁN LINK ẢNH POSTER PHIM" />
+<br /><img id="mvi-cover-data" src="DÁN LINK ẢNH THUMB" /><br />
+<img id="mvi-cover-data" src="DÁN LINK ẢNH PHIM" />
+<a name="more"></a> <div id="mvi-status-data">[NHẬP TRẠNG THÁI PHIM]
+</div><div id="mvi-desc-data">
+
+NHẬP NỘI DUNG PHIM
+
+<br /></div><div id="mvi-genre-data">NHẬP THỂ LOẠI PHIM</div>
+<div id="mvi-actor-data">pp_50095_Đang cập nhật</div>
+<div id="mvi-director-data">pp_1254995_Đạng cập nhật</div>
+<div id="mvi-country-data">Mỹ</div><div id="mvi-duration-data">NHẬP THỜI LƯỢNG PHIM</div>
+<div id="mvi-res-data">NHẬP TRẠNG THÁI SUB PHIM </div>
+<div id="mvi-year-data">NHẬP NĂM SẢN XUẤT PHIM</div>
+<div id="mvi-trailer-data">Đang cập nhật </div>
+<div id="mvi-link-data">
+<id data-src="https://www.youtube.com/embed/IDvideo">Tập 1</id> <br />
+<id data-src="https://drive.google.com/file/d/IDvideo/preview">Tập 2</id> <br />

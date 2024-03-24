@@ -1,0 +1,950 @@
+											  
+	
+[
+    {
+        "key": "group_54fa4e7f4db8f",
+        "title": "Add links",
+        "fields": [
+            {
+                "key": "field_54fa5538b5a95",
+                "label": "Add Downloads",
+                "name": "",
+                "type": "tab",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "placement": "top",
+                "endpoint": 0
+            },
+            {
+                "key": "field_54fa4e8cbca22",
+                "label": "Downloads",
+                "name": "ddw",
+                "type": "repeater",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "min": "",
+                "max": "",
+                "layout": "table",
+                "button_label": "Add Link",
+                "sub_fields": [
+                    {
+                        "key": "field_54fa4ebdbca24",
+                        "label": "URL",
+                        "name": "op1",
+                        "type": "text",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": "",
+                        "maxlength": "",
+                        "readonly": 0,
+                        "disabled": 0
+                    },
+                    {
+                        "key": "field_54fa4ecebca25",
+                        "label": "Server",
+                        "name": "op2",
+                        "type": "text",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": "",
+                        "maxlength": "",
+                        "readonly": 0,
+                        "disabled": 0
+                    },
+                    {
+                        "key": "field_54fa4ee0bca26",
+                        "label": "Language \/ Audio",
+                        "name": "op3",
+                        "type": "select",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "choices": {
+                            "it": "Italian",
+                            "us": "English",
+                            "fr": "French",
+                            "de": "German",
+                            "id": "Indonesian",
+                            "in": "Hindi",
+                            "jp": "Japanese",
+                            "ph": "Philippines",
+                            "pt": "Portugal",
+                            "br": "Brazil",
+                            "pl": "Polish",
+                            "td": "Romanian",
+                            "es": "Spanish Spain",
+                            "mx": "Spanish Mexico",
+                            "tr": "Turkish",
+                            "ru": "Rusian"
+                        },
+                        "default_value": [],
+                        "allow_null": 0,
+                        "multiple": 0,
+                        "ui": 0,
+                        "ajax": 0,
+                        "placeholder": "",
+                        "disabled": 0,
+                        "readonly": 0
+                    },
+                    {
+                        "key": "field_54fa4efcbca27",
+                        "label": "Quality",
+                        "name": "op4",
+                        "type": "select",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "choices": {
+                            "Cam": "Cam",
+                            "SD": "SD",
+                            "HD": "HD",
+                            "HD 720P": "HD 720P",
+                            "HD 1080P": "HD 1080P",
+                            "DVD": "DVD"
+                        },
+                        "default_value": [],
+                        "allow_null": 0,
+                        "multiple": 0,
+                        "ui": 0,
+                        "ajax": 0,
+                        "placeholder": "",
+                        "disabled": 0,
+                        "readonly": 0
+                    }
+                ]
+            },
+            {
+                "key": "field_54fa554db5a96",
+                "label": "Add link to watch online",
+                "name": "",
+                "type": "tab",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "placement": "top",
+                "endpoint": 0
+            },
+            {
+                "key": "field_54fa4f41bca28",
+                "label": "View Online",
+                "name": "voo",
+                "type": "repeater",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "min": "",
+                "max": "",
+                "layout": "table",
+                "button_label": "Add Link",
+                "sub_fields": [
+                    {
+                        "key": "field_54fa4f41bca29",
+                        "label": "URL",
+                        "name": "op1",
+                        "type": "text",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": "",
+                        "maxlength": "",
+                        "readonly": 0,
+                        "disabled": 0
+                    },
+                    {
+                        "key": "field_54fa4f41bca2a",
+                        "label": "Server",
+                        "name": "op2",
+                        "type": "text",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": "",
+                        "maxlength": "",
+                        "readonly": 0,
+                        "disabled": 0
+                    },
+                    {
+                        "key": "field_54fa4f41bca2b",
+                        "label": "Language \/ Audio",
+                        "name": "op3",
+                        "type": "select",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "choices": {
+                            "it": "Italian",
+                            "us": "English",
+                            "fr": "French",
+                            "de": "German",
+                            "id": "Indonesian",
+                            "in": "Hindi",
+                            "jp": "Japanese",
+                            "ph": "Philippines",
+                            "pt": "Portugal",
+                            "br": "Brazil",
+                            "pl": "Polish",
+                            "td": "Romanian",
+                            "es": "Spanish Spain",
+                            "mx": "Spanish Mexico",
+                            "tr": "Turkish",
+                            "ru": "Rusian"
+                        },
+                        "default_value": [],
+                        "allow_null": 0,
+                        "multiple": 0,
+                        "ui": 0,
+                        "ajax": 0,
+                        "placeholder": "",
+                        "disabled": 0,
+                        "readonly": 0
+                    },
+                    {
+                        "key": "field_54fa4f41bca2c",
+                        "label": "Quality",
+                        "name": "op4",
+                        "type": "select",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "choices": {
+                            "Cam": "Cam",
+                            "SD": "SD",
+                            "HD": "HD",
+                            "HD 720P": "HD 720P",
+                            "HD 1080P": "HD 1080P",
+                            "DVD": "DVD"
+                        },
+                        "default_value": [],
+                        "allow_null": 0,
+                        "multiple": 0,
+                        "ui": 0,
+                        "ajax": 0,
+                        "placeholder": "",
+                        "disabled": 0,
+                        "readonly": 0
+                    }
+                ]
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "post"
+                }
+            ]
+        ],
+        "menu_order": 0,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": 1,
+        "description": ""
+    },
+    {
+        "key": "group_593efab010410",
+        "title": "Episode player",
+        "fields": [
+            {
+                "key": "field_593efc92538d1",
+                "label": "Episode Server 1",
+                "name": "ep_player1",
+                "type": "repeater",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "min": "",
+                "max": "",
+                "layout": "table",
+                "button_label": "Add Row",
+                "sub_fields": [
+                    {
+                        "key": "field_593efc92538d2",
+                        "label": "Type",
+                        "name": "type_player",
+                        "type": "select",
+                        "instructions": "",
+                        "required": 1,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "choices": {
+                            "p_iframe": "Iframe url",
+                            "p_mp4": "Mp4 url"
+                        },
+                        "default_value": [],
+                        "allow_null": 0,
+                        "multiple": 0,
+                        "ui": 0,
+                        "ajax": 0,
+                        "placeholder": "",
+                        "disabled": 0,
+                        "readonly": 0
+                    },
+                    {
+                        "key": "field_593efc93538d3",
+                        "label": "VIDEO URL",
+                        "name": "embed_player",
+                        "type": "url",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "placeholder": "http:\/\/domain.com\/video.mp4"
+                    },
+                    {
+                        "key": "field_593efc93538d4",
+                        "label": "Episode Quality",
+                        "name": "ep_title",
+                        "type": "select",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "choices": {
+                            "HD 360p": "HD 360p",
+                            "HD 480p": "HD 480p",
+                            "HD 720p": "HD 720p",
+                            "HD 1080p": "HD 1080p",
+                            "SD": "SD",
+                            "CAM": "CAM",
+                            "360p": "360p",
+                            "480p": "480p",
+                            "720p": "720p",
+                            "1080p": "1080p"
+                        },
+                        "default_value": [],
+                        "allow_null": 0,
+                        "multiple": 0,
+                        "ui": 0,
+                        "ajax": 0,
+                        "placeholder": "",
+                        "disabled": 0,
+                        "readonly": 0
+                    }
+                ]
+            },
+            {
+                "key": "field_593f040c0b2f5",
+                "label": "Episode Server 2",
+                "name": "ep_player2",
+                "type": "repeater",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "min": "",
+                "max": "",
+                "layout": "table",
+                "button_label": "Add Row",
+                "sub_fields": [
+                    {
+                        "key": "field_593f040c0b2f6",
+                        "label": "Type",
+                        "name": "type_player",
+                        "type": "select",
+                        "instructions": "",
+                        "required": 1,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "choices": {
+                            "p_iframe": "Iframe url",
+                            "p_mp4": "Mp4 url"
+                        },
+                        "default_value": [],
+                        "allow_null": 0,
+                        "multiple": 0,
+                        "ui": 0,
+                        "ajax": 0,
+                        "placeholder": "",
+                        "disabled": 0,
+                        "readonly": 0
+                    },
+                    {
+                        "key": "field_593f040c0b2f7",
+                        "label": "VIDEO URL",
+                        "name": "embed_player",
+                        "type": "url",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "placeholder": "http:\/\/domain.com\/video.mp4"
+                    },
+                    {
+                        "key": "field_593f040c0b2f8",
+                        "label": "Episode Quality",
+                        "name": "ep_title",
+                        "type": "select",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "choices": {
+                            "HD 360p": "HD 360p",
+                            "HD 480p": "HD 480p",
+                            "HD 720p": "HD 720p",
+                            "HD 1080p": "HD 1080p",
+                            "SD": "SD",
+                            "CAM": "CAM",
+                            "360p": "360p",
+                            "480p": "480p",
+                            "720p": "720p",
+                            "1080p": "1080p"
+                        },
+                        "default_value": [],
+                        "allow_null": 0,
+                        "multiple": 0,
+                        "ui": 0,
+                        "ajax": 0,
+                        "placeholder": "",
+                        "disabled": 0,
+                        "readonly": 0
+                    }
+                ]
+            },
+            {
+                "key": "field_593f03ebc3107",
+                "label": "Episode Server 3",
+                "name": "ep_player3",
+                "type": "repeater",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "min": "",
+                "max": "",
+                "layout": "table",
+                "button_label": "Add Row",
+                "sub_fields": [
+                    {
+                        "key": "field_593f03ecc3108",
+                        "label": "Type",
+                        "name": "type_player",
+                        "type": "select",
+                        "instructions": "",
+                        "required": 1,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "choices": {
+                            "p_iframe": "Iframe url",
+                            "p_mp4": "Mp4 url"
+                        },
+                        "default_value": [],
+                        "allow_null": 0,
+                        "multiple": 0,
+                        "ui": 0,
+                        "ajax": 0,
+                        "placeholder": "",
+                        "disabled": 0,
+                        "readonly": 0
+                    },
+                    {
+                        "key": "field_593f03ecc3109",
+                        "label": "VIDEO URL",
+                        "name": "embed_player",
+                        "type": "url",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "placeholder": "http:\/\/domain.com\/video.mp4"
+                    },
+                    {
+                        "key": "field_593f03ecc310a",
+                        "label": "Episode Quality",
+                        "name": "ep_title",
+                        "type": "select",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "choices": {
+                            "HD 360p": "HD 360p",
+                            "HD 480p": "HD 480p",
+                            "HD 720p": "HD 720p",
+                            "HD 1080p": "HD 1080p",
+                            "SD": "SD",
+                            "CAM": "CAM",
+                            "360p": "360p",
+                            "480p": "480p",
+                            "720p": "720p",
+                            "1080p": "1080p"
+                        },
+                        "default_value": [],
+                        "allow_null": 0,
+                        "multiple": 0,
+                        "ui": 0,
+                        "ajax": 0,
+                        "placeholder": "",
+                        "disabled": 0,
+                        "readonly": 0
+                    }
+                ]
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "episodes"
+                }
+            ]
+        ],
+        "menu_order": 0,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": 1,
+        "description": ""
+    },
+    {
+        "key": "group_593dd1d00da1f",
+        "title": "Movies in this article",
+        "fields": [
+            {
+                "key": "field_593dd1e0ca448",
+                "label": "Movies in this article",
+                "name": "movarticle",
+                "type": "repeater",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "min": "",
+                "max": "",
+                "layout": "table",
+                "button_label": "Add Row",
+                "sub_fields": [
+                    {
+                        "key": "field_593dd30105919",
+                        "label": "Title",
+                        "name": "movarticle_title",
+                        "type": "text",
+                        "instructions": "Movie title",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "placeholder": "Movie title",
+                        "prepend": "",
+                        "append": "",
+                        "maxlength": "",
+                        "readonly": 0,
+                        "disabled": 0
+                    },
+                    {
+                        "key": "field_593dd3840591a",
+                        "label": "Slug",
+                        "name": "movarticle_slug",
+                        "type": "relationship",
+                        "instructions": "Search for movie",
+                        "required": 1,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "post_type": [],
+                        "taxonomy": [],
+                        "filters": [
+                            "search"
+                        ],
+                        "elements": [
+                            "featured_image"
+                        ],
+                        "min": "",
+                        "max": 1,
+                        "return_format": "id"
+                    }
+                ]
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "noticias"
+                }
+            ]
+        ],
+        "menu_order": 0,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": 1,
+        "description": ""
+    },
+    {
+        "key": "group_59de2b8c5d365",
+        "title": "Player",
+        "fields": [
+            {
+                "key": "field_59de2b980e687",
+                "label": "Player",
+                "name": "player",
+                "type": "repeater",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "min": "",
+                "max": "",
+                "layout": "table",
+                "button_label": "Add Row",
+                "sub_fields": [
+                    {
+                        "key": "field_59de2d60fc804",
+                        "label": "Kualitas Film",
+                        "name": "quality_player",
+                        "type": "select",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "choices": {
+                            "CAM": "CAM",
+                            "HDTS": "HDTS",
+                            "SD 360p": "SD 360p",
+                            "SD 480p": "SD 480p",
+                            "HD 720p": "HD 720p",
+                            "HD 1080p": "HD 1080p"
+                        },
+                        "default_value": [],
+                        "allow_null": 0,
+                        "multiple": 0,
+                        "ui": 0,
+                        "ajax": 0,
+                        "placeholder": "",
+                        "disabled": 0,
+                        "readonly": 0
+                    },
+                    {
+                        "key": "field_59de2d9efc805",
+                        "label": "Embed Code",
+                        "name": "embed_player",
+                        "type": "text",
+                        "instructions": "Tulis ID Google Drive Disini",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": "",
+                        "maxlength": "",
+                        "readonly": 0,
+                        "disabled": 0
+                    }
+                ]
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "episodes"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "post"
+                }
+            ]
+        ],
+        "menu_order": 0,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": 1,
+        "description": ""
+    },
+    {
+        "key": "group_551980ab1bc3d",
+        "title": "Seasons and episodes",
+        "fields": [
+            {
+                "key": "field_551980b8a65b5",
+                "label": "Seasons",
+                "name": "temporadas",
+                "type": "repeater",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "min": "",
+                "max": "",
+                "layout": "table",
+                "button_label": "Add season",
+                "sub_fields": [
+                    {
+                        "key": "field_551980eaa65b6",
+                        "label": "Episodes",
+                        "name": "episodios",
+                        "type": "repeater",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "min": "",
+                        "max": "",
+                        "layout": "table",
+                        "button_label": "Add episode",
+                        "sub_fields": [
+                            {
+                                "key": "field_55198102a65b7",
+                                "label": "Slug",
+                                "name": "slug",
+                                "type": "text",
+                                "instructions": "http:\/\/....com\/series\/the-walking-dead\/",
+                                "required": 1,
+                                "conditional_logic": 0,
+                                "wrapper": {
+                                    "width": "",
+                                    "class": "",
+                                    "id": ""
+                                },
+                                "default_value": "",
+                                "placeholder": "the-walking-dead",
+                                "prepend": "",
+                                "append": "",
+                                "maxlength": "",
+                                "readonly": 0,
+                                "disabled": 0
+                            },
+                            {
+                                "key": "field_5519810fa65b8",
+                                "label": "Episode ID",
+                                "name": "epid",
+                                "type": "text",
+                                "instructions": "Enter episode id",
+                                "required": 0,
+                                "conditional_logic": 0,
+                                "wrapper": {
+                                    "width": "",
+                                    "class": "",
+                                    "id": ""
+                                },
+                                "default_value": "",
+                                "placeholder": 1,
+                                "prepend": "Episode",
+                                "append": "",
+                                "maxlength": "",
+                                "readonly": 0,
+                                "disabled": 0
+                            },
+                            {
+                                "key": "field_551ad81267b46",
+                                "label": "Quiality or Title",
+                                "name": "tvtit",
+                                "type": "text",
+                                "instructions": "",
+                                "required": 0,
+                                "conditional_logic": 0,
+                                "wrapper": {
+                                    "width": "",
+                                    "class": "",
+                                    "id": ""
+                                },
+                                "default_value": "",
+                                "placeholder": "HD - Episode title",
+                                "prepend": "",
+                                "append": "",
+                                "maxlength": "",
+                                "readonly": 0,
+                                "disabled": 0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "tvshows"
+                }
+            ]
+        ],
+        "menu_order": 0,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": 1,
+        "description": ""
+    }
+]

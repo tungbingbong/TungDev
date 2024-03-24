@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{F00A206F-905E-4B98-94A3-4F099AAE1A0D}|">
+  <MonoDevelop.Ide.ItemProperties.SocialNetworkApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SocialNetworkApp/Views/SideBar/_SearchGroups.cshtml">
+    <Files>
+      <File FileName="SocialNetworkApp/Controllers/PostController.cs" Line="1" Column="1" />
+      <File FileName="SocialNetworkApp/Views/SideBar/_SearchGroups.cshtml" Line="71" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SocialNetworkApp" expanded="True">
+            <Node name="SocialNetworkApp" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Filters" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Group" expanded="True" />
+                <Node name="SideBar" expanded="True">
+                  <Node name="_SearchGroups.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

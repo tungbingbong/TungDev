@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
+    <title>The planets</title>
+</head>
+
+<body>
+    <header class="header">
+        <h2 class="header__logo">
+            THE PLANETS
+        </h2>
+        <ul class="nav">
+            <li class="nav__item active" data-index="0">
+                <a href="#" class="nav__link">MERCURY</a>
+            </li>
+            <li class="nav__item" data-index="1">
+                <a href="#" class="nav__link">VENUS</a>
+            </li>
+            <li class="nav__item" data-index="2">
+                <a href="#" class="nav__link">EARTH</a>
+            </li>
+            <li class="nav__item" data-index="3">
+                <a href="#" class="nav__link">MARS</a>
+            </li>
+            <li class="nav__item" data-index="4">
+                <a href="#" class="nav__link">JUPITER</a>
+            </li>
+            <li class="nav__item" data-index="5">
+                <a href="#" class="nav__link">SATURN</a>
+            </li>
+            <li class="nav__item" data-index="6">
+                <a href="#" class="nav__link">URANUS</a>
+            </li>
+            <li class="nav__item" data-index="7">
+                <a href="#" class="nav__link">NEPTUNE</a>
+            </li>
+        </ul>
+    </header>
+
+    <div class="container">
+        <div class="container-left">
+            <img src="./assets/planet-mercury.svg" alt="" class="planet__img">
+        </div>
+        <div class="container-right">
+            <h1 class="planet-name">Mercury</h1>
+            <div class="wrapper-content">
+                <p class="content">
+                    Mercury appears to have a solid silicate crust and mantle overlying a solid, iron sulfide outer core
+                    layer, a deeper liquid core layer, and a solid inner core. The planet's density is the second
+                    highest in the Solar System at 5.427 g/cm3 , only slightly less than Earth's density.
+                </p>
+                <p class="wrapper-source">
+                    Source : <a href="https://en.wikipedia.org/wiki/Mercury_(planet)" class="source">Wikipedia</a>
+                </p>
+            </div>
+
+            <div class="display-list">
+                <div class="display-item active" data-option="overview">
+                    <span class="number">01</span>
+                    <p class="display-option">OVERVIEW</p>
+                </div>
+                <div class="display-item" data-option="structure">
+                    <span class="number">02</span>
+                    <p class="display-option">INTERNAL STRUCTURE</p>
+                </div>
+                <div class="display-item" data-option="geology">
+                    <span class="number">03</span>
+                    <p class="display-option">SURFACE GEOLOGY</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <div class="rotation">
+            <h5 class="footer-heading">ROTATION TIME</h5>
+            <h3 class="footer-content">58.6 DAYS</h3>
+        </div>
+        <div class="revolution">
+            <h5 class="footer-heading">REVOLUTION TIME</h5>
+            <h3 class="footer-content">87.97 DAYS</h3>
+
+        </div>
+        <div class="radius">
+            <h5 class="footer-heading">RADIUS</h5>
+            <h3 class="footer-content">2,439.7 KM</h3>
+
+        </div>
+        <div class="temperature">
+            <h5 class="footer-heading">AVERAGE TEMP</h5>
+            <h3 class="footer-content">430°C</h3>
+
+        </div>
+    </footer>
+    <script src="./js/main.js"></script>
+</body>
+
+</html>

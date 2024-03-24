@@ -1,0 +1,301 @@
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+li {
+    list-style: none;
+}
+
+.header {
+    background: #ccc;
+    width: 1000px;
+   
+
+}
+
+.header ul li{
+    float:left;
+    margin-right:5px;
+        
+}
+.thantrang {
+    width: 1000px;
+    margin: 0 auto;
+    padding: 0;
+    background-color: #fdfdfb;
+    overflow: hidden;
+    margin-top: 48px;
+    height: auto;
+}
+
+.bentrai {
+    width: 204px;
+    margin: 0;
+    padding: 0;
+    float: LEFT;
+}
+
+    .bentrai a:hover {
+        text-decoration: underline;
+        color: Red;
+    }
+
+.menudoc {
+    border: 1px solid #ccc;
+    margin-bottom: 5px;
+    width: 204px;
+}
+
+.thanhmenu {
+    background:#0367ac;
+    width: 204px;
+    height: 25px;
+    line-height: 25px;
+    text-align: center;
+    color: #fff;
+    l
+}
+
+    .thanhmenu h4 {
+        margin: 0;
+        padding: 10px 0 0 20px;
+        text-align: left;
+        color: #fff;
+        font-size: small;
+    }
+
+.danhmucsanpham {
+    margin-top: -25PX;
+}
+
+    .danhmucsanpham ul {
+    }
+
+    .danhmucsanpham li {
+        list-style: none;
+    }
+
+    .danhmucsanpham a {
+        text-decoration: none;
+        font-weight: bold;
+        display: block;
+        height: 25px;
+        width: 202px;
+        
+        line-height: 30px;
+        text-indent: 20px;
+        color: Black;
+    }
+
+        .danhmucsanpham a:hover {
+            color: #0367ac;
+            text-decoration: underline;
+        }
+
+.giua {
+    width: 570px;
+    margin: 0 auto;
+    padding: 0;
+    margin-left: 6px;
+    float: left;
+    background-color: #fff;
+}
+
+    .giua a:hover {
+        color: blue;
+        text-decoration: underline;
+    }
+
+.sanpham {
+    width: 580px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.benphai {
+    width: 204px;
+    float: right;
+    margin: 0;
+    padding: 0;
+}
+
+.hotrokhachhang {
+    background-image: url(Images/ho-tro-khach-hang.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    width: 200px;
+    height: 130px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.menutintuc {
+    width: 200px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.tintuc a {
+    color: Black;
+    text-decoration: none;
+}
+
+    .tintuc a:hover {
+        color: Red;
+        text-decoration: underline;
+    }
+
+.muahanggoingay {
+    margin: 0;
+    padding: 0;
+    width: 204px;
+}
+
+    .muahanggoingay h4 {
+        font-size: 16px;
+        margin: 0;
+        padding: 0;
+        padding-left: 10px;
+        padding-top: 10px;
+    }
+
+    .muahanggoingay p {
+        margin: 0;
+        padding: 0;
+    }
+
+    .muahanggoingay ul {
+        margin: 0 auto;
+        padding: 0;
+    }
+
+    .muahanggoingay li {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    .muahanggoingay a {
+        text-align: center;
+        color: Blue;
+    }
+
+        .muahanggoingay a:hover {
+            color: Red;
+            text-decoration: underline;
+        }
+
+.chantrang {
+    width: 100%;
+    height: 55px;
+    margin: 0;
+    padding: 0;
+    border-top: 3px solid rgb(255,255,153);
+}
+
+    .chantrang p {
+        margin: 0;
+        padding: 0;
+    }
+
+.giaidap {
+    float: left;
+    padding: 10px;
+    text-align: justify;
+}
+
+.flash1 {
+    width: 120px;
+    height: 362px;
+    left: 0px;
+    bottom: 60px;
+    position: fixed;
+}
+
+.flash2 {
+    width: 120px;
+    height: 362px;
+    right: 0px;
+    bottom: 60px;
+    position: fixed;
+}
+
+.txtSearch {
+    margin-top: 0;
+    padding: 0;
+    width: 150px;
+    height: 25px;
+    background-image: url(Images/tim2);
+    background-repeat: no-repeat;
+}
+
+.sanpham {
+    margin: 0;
+    padding: 0;
+    vertical-align: middle;
+}
+
+.menu {
+    width: 100%;
+    height: 30px;
+    border: 1px solid #221C1F;
+    border-bottom: 2px #221C1F solid;
+    font-size: 14px;
+    background: #333;
+}
+
+    .menu ul {
+        list-style: none;
+        margin: 0 3% 0 3%;
+    }
+
+        .menu ul li {
+            float: left;
+            padding: 5px 14px;
+        }
+
+            .menu ul li a {
+                color: #fff;
+                text-decoration: none;
+                text-align: center;
+                text-transform: uppercase;
+                font-weight: bold;
+                letter-spacing: normal;
+                font-size: 15px;
+                font-family: Helvetica, Arial, sans-serif;
+            }
+
+    .menu a:hover {
+        border-bottom: 3px solid #CC1ABE;
+        transition: all 1s;
+    }
+
+.logo6 {
+    width: 1000px;
+    text-align: center;
+    height: 100px;
+}
+
+.banner {
+    width: 1000px;
+    height: 350px;
+   border: 1px solid #ccc;
+}
+
+.footer {
+    width: 1000px;
+    text-align: center;
+    margin-top: 10px;
+    background: #133c65;
+    color: #fff;
+    height: 30px;
+    line-height: 30px;
+}

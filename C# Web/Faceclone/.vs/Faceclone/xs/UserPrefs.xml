@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{FC0B7084-6B8C-41C9-90AA-FB4E19628FA1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sweeter/Sweeter/obj/Debug/net6.0-windows/Sweeter.GlobalUsings.g.cs">
+    <Files>
+      <File FileName="Sweeter/Sweeter/obj/Debug/net6.0-windows/Sweeter.GlobalUsings.g.cs" Line="2" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Faceclone" expanded="True">
+            <Node name="Faceclone" expanded="True">
+              <Node name="Sweeter" expanded="True">
+                <Node name="Sweeter" expanded="True">
+                  <Node name="obj" expanded="True">
+                    <Node name="Debug" expanded="True">
+                      <Node name="net6.0-windows" expanded="True">
+                        <Node name="Sweeter.GlobalUsings.g.cs" selected="True" />
+                      </Node>
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Faceclone PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

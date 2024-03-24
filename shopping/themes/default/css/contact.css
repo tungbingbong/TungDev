@@ -1,0 +1,53 @@
+#contactButton{
+    position: fixed;
+    bottom: 0;
+    right: 15px;
+    max-height:100%;
+    width:350px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    z-index:1000;
+}
+#contactButton .panel{
+    margin-bottom:0;
+    width:100%;
+    color:#333;
+    display:none
+}
+#contactButton .ctb{
+    position: fixed;
+    bottom: 0;
+    right:15px;
+    z-index:1000;
+    text-align:center;
+}
+#contactButton .ctb, #contactButton .panel{
+    border-radius: 5px 5px 0 0;
+}
+#contactButton .ctb em{
+    margin-right:3px;
+    font-size: 1.6em;
+    vertical-align:middle
+}
+@media (max-width:1199px) {
+    #contactButton .ctb{
+        right:70px;
+    }
+}
+@media (max-width:499px) {
+    #contactButton{
+        right:auto;
+        left:0;
+        width:90%
+    }
+}
+.quick-form1 {
+    padding: 30px 30px 5px 30px;
+    background-color: #ffffff;
+    border: 10px solid #f2f2f2;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+    border-radius: 2px;
+}

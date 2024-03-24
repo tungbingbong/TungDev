@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{F00A206F-905E-4B98-94A3-4F099AAE1A0D}|">
+  <MonoDevelop.Ide.ItemProperties.SocialNetworkApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Account/ExternalLoginFailure.cshtml">
+    <Files>
+      <File FileName="Models/SocialModels.cs" Line="1" Column="1" />
+      <File FileName="Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="Views/Account/_ChangePasswordPartial.cshtml" Line="11" Column="13" />
+      <File FileName="Views/Account/ExternalLoginConfirmation.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Admin/_Index.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Admin/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Account/Register.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Group/Details.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Account/_ExternalLoginsListPartial.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Account/_RemoveExternalLoginsPartial.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Account/_SetPasswordPartial.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Account/ExternalLoginFailure.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SocialNetworkApp" expanded="True">
+            <Node name="SocialNetworkApp" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Account" expanded="True" />
+                <Node name="Admin" expanded="True" />
+                <Node name="Footer" expanded="True" />
+                <Node name="Group" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Post" expanded="True" />
+                <Node name="Posting" expanded="True" />
+                <Node name="Shared" expanded="True" />
+                <Node name="SideBar" expanded="True" />
+                <Node name="User" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<configuration>
+  <configSections>
+    <section name="urlrewritingnet" requirePermission="false" type="UrlRewritingNet.Configuration.UrlRewriteSection, UrlRewritingNet.UrlRewriter"  />
+  </configSections>
+
+  <connectionStrings>
+    <add name="conString" connectionString="Data Source=DESKTOP-RUH3VAS\SQLEXPRESS;Initial Catalog=hoanglongdoor_db;User Id=hoanglongdoor_user;Password=conkhibeo;" />
+  </connectionStrings>
+      <urlrewritingnet
+        rewriteOnlyVirtualUrls="true"
+        contextItemsPrefix="QueryString"
+        defaultPage="default.aspx"
+        defaultProvider="RegEx"
+        xmlns="http://www.urlrewriting.net/schemas/config/2006/07" >
+        <rewrites>
+
+      <!-- Thong tin rewrite cac domain -->
+         
+          <!-- Chi tiet tin dang -->
+          <add name="phan-trang-category-news"  virtualUrl="^~/category-p_(.*)/(.*)/(.*)/(.*).aspx"
+               rewriteUrlParameter="ExcludeFromClientQueryString"
+               destinationUrl="~/Default.aspx?page=browse_news&amp;mod=news&amp;p=$1&amp;tabid=$2&amp;catid=$3"
+               ignoreCase="true" />
+          <add name="category-news"  virtualUrl="^~/category/(.*)/(.*)/(.*).aspx"
+               rewriteUrlParameter="ExcludeFromClientQueryString"
+               destinationUrl="~/Default.aspx?page=browse_news&amp;mod=news&amp;tabid=$1&amp;catid=$2"
+               ignoreCase="true" />
+          <add name="detail-news"  virtualUrl="^~/detail-news/(.*)/(.*)/(.*).aspx"
+               rewriteUrlParameter="ExcludeFromClientQueryString"
+               destinationUrl="~/Default.aspx?page=detail_news&amp;mod=news&amp;tabid=$1&amp;id=$2"
+               ignoreCase="true" />
+          <add name="cong-trinh"  virtualUrl="^~/cong-trinh/(.*)/(.*)/(.*).aspx"
+               rewriteUrlParameter="ExcludeFromClientQueryString"
+               destinationUrl="~/Default.aspx?page=congtrinh&amp;mod=congtrinh&amp;tabid=$1&amp;catid=$2"
+               ignoreCase="true" />
+          <add name="phan-trang-cong-trinh"  virtualUrl="^~/cong-trinh-p_(.*)/(.*)/(.*)/(.*).aspx"
+               rewriteUrlParameter="ExcludeFromClientQueryString"
+               destinationUrl="~/Default.aspx?page=congtrinh&amp;mod=congtrinh&amp;p=$1&amp;tabid=$2&amp;catid=$3"
+               ignoreCase="true" />
+          <add name="granite"  virtualUrl="^~/Granite/(.*)/(.*)/(.*).aspx"
+               rewriteUrlParameter="ExcludeFromClientQueryString"
+               destinationUrl="~/Default.aspx?page=granite&amp;mod=granite&amp;tabid=$1&amp;catid=$2"
+               ignoreCase="true" />
+          <add name="phan-trang-granite"  virtualUrl="^~/granite-p_(.*)/(.*)/(.*)/(.*).aspx"
+               rewriteUrlParameter="ExcludeFromClientQueryString"
+               destinationUrl="~/Default.aspx?page=granite&amp;mod=granite&amp;p=$1&amp;tabid=$2&amp;catid=$3"
+               ignoreCase="true" />
+          <add name="detail-granite"  virtualUrl="^~/detail-granite/(.*)/(.*)/(.*).aspx"
+               rewriteUrlParameter="ExcludeFromClientQueryString"
+               destinationUrl="~/Default.aspx?page=detail_granite&amp;mod=granite&amp;tabid=$1&amp;id=$2"
+               ignoreCase="true" />
+          <add name="phan-trang-detail-granite"  virtualUrl="^~/detail-granite-p_(.*)/(.*)/(.*)/(.*).aspx"
+               rewriteUrlParameter="ExcludeFromClientQueryString"
+               destinationUrl="~/Default.aspx?page=detail_granite&amp;mod=granite&amp;p=$1&amp;tabid=$2&amp;id=$3"
+               ignoreCase="true" />
+          <add name="product"  virtualUrl="^~/product/(.*)/(.*)/(.*).aspx"
+               rewriteUrlParameter="ExcludeFromClientQueryString"
+               destinationUrl="~/Default.aspx?page=product&amp;mod=product&amp;tabid=$1&amp;catid=$2"
+               ignoreCase="true" />
+          <add name="phan-trang-product"  virtualUrl="^~/product-p_(.*)/(.*)/(.*)/(.*).aspx"
+               rewriteUrlParameter="ExcludeFromClientQueryString"
+               destinationUrl="~/Default.aspx?page=product&amp;mod=product&amp;p=$1&amp;tabid=$2&amp;catid=$3"
+               ignoreCase="true" />
+          <add name="detail-product"  virtualUrl="^~/detail-product/(.*)/(.*)/(.*).aspx"
+               rewriteUrlParameter="ExcludeFromClientQueryString"
+               destinationUrl="~/Default.aspx?page=detail_product&amp;mod=product&amp;tabid=$1&amp;id=$2"
+               ignoreCase="true" />
+          <add name="phan-trang-detail-product"  virtualUrl="^~/detail-product-p_(.*)/(.*)/(.*)/(.*).aspx"
+               rewriteUrlParameter="ExcludeFromClientQueryString"
+               destinationUrl="~/Default.aspx?page=detail_product&amp;mod=product&amp;p=$1&amp;tabid=$2&amp;id=$3"
+               ignoreCase="true" />
+          <add name="contact"  virtualUrl="^~/(.*)/contact.aspx"
+               rewriteUrlParameter="ExcludeFromClientQueryString"
+               destinationUrl="~/contact.aspx?tabid=$1"
+               ignoreCase="true" />
+          <add name="sitemap"  virtualUrl="^~/(.*)/sitemap.aspx"
+               rewriteUrlParameter="ExcludeFromClientQueryString"
+               destinationUrl="~/sitemap.aspx?tabid=$1"
+               ignoreCase="true" />
+          <add name="intro"  virtualUrl="^~/(.*)/intro.aspx"
+               rewriteUrlParameter="ExcludeFromClientQueryString"
+               destinationUrl="~/intro.aspx?tabid=$1"
+               ignoreCase="true" />
+          <add name="rss"  virtualUrl="^~/(.*)/rss.aspx"
+               rewriteUrlParameter="ExcludeFromClientQueryString"
+               destinationUrl="~/rss.aspx?tabid=$1"
+               ignoreCase="true" />
+          <add name="tin-tuc-noi-bat"  virtualUrl="^~/news/hot-news.aspx"
+               rewriteUrlParameter="ExcludeFromClientQueryString"
+               destinationUrl="~/Default.aspx?page=browse_hotnews&amp;mod=news"
+               ignoreCase="true" />
+          <add name="phan-trang-hot-news"  virtualUrl="^~/hot-news-p_(.*)/(.*).aspx"
+               rewriteUrlParameter="ExcludeFromClientQueryString"
+               destinationUrl="~/Default.aspx?page=browse_hotnews&amp;mod=news&amp;p=$1"
+               ignoreCase="true" />
+          <!-- Cua nhua, cua cuon -->
+          <add name="iwindow"  virtualUrl="^~/(.*)/iwindow.aspx"
+               rewriteUrlParameter="ExcludeFromClientQueryString"
+               destinationUrl="~/Default.aspx?page=iwindow&amp;mod=doors&amp;tabid=$1"
+               ignoreCase="true" />
+          <add name="detail-doors"  virtualUrl="^~/detail-doors/(.*)/(.*)/(.*).aspx"
+               rewriteUrlParameter="ExcludeFromClientQueryString"
+               destinationUrl="~/Default.aspx?page=doors&amp;mod=doors&amp;tabid=$1&amp;id=$2"
+               ignoreCase="true" />
+          <add name="doors"  virtualUrl="^~/doors/(.*)/(.*)/(.*).aspx"
+               rewriteUrlParameter="ExcludeFromClientQueryString"
+               destinationUrl="~/Default.aspx?page=list_doors&amp;mod=doors&amp;tabid=$1&amp;catid=$2"
+               ignoreCase="true" />
+      <!-- end -->
+    </rewrites>
+  </urlrewritingnet>
+
+  <appSettings/>
+  <system.web>
+    <customErrors mode="Off" defaultRedirect="~/Default.aspx">
+    </customErrors>
+    <httpHandlers>
+      <add verb="GET" path="ImageVerifier.axd" type="NatsNet.Web.UI.Controls.ImageVerifier, NatsNet.Web.UI.Controls"/>
+    </httpHandlers>
+    <httpModules>      
+      <add name="UrlRewriteModule" type="UrlRewritingNet.Web.UrlRewriteModule, UrlRewritingNet.UrlRewriter" />
+    </httpModules>
+    <compilation debug="true" />
+  </system.web>
+  
+</configuration>

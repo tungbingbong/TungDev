@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cms>
+	<name><![CDATA[NukeViet CMS 4.1 Beta 1]]></name>
+	<version><![CDATA[4.1.00]]></version>
+	<date><![CDATA[Wed, 05 Oct 2016 17:00:00 GMT]]></date>
+	<message><![CDATA[NukeViet 4.1 Beta 1 (4.1.00) là phiên bản tiếp theo của dòng NukeViet 4 chính thức được phát hành cách đây hơn 4 tháng với nhiều sửa đổi nhằm tối ưu hơn so với bản NukeViet trước]]></message>
+	<link><![CDATA[https&#x3A;&#x002F;&#x002F;nukeviet.vn&#x002F;vi&#x002F;forum&#x002F;Ho-tro-su-dung&#x002F;]]></link>
+	<updateable><![CDATA[4.1.00]]></updateable>
+	<updatepackage><![CDATA[9]]></updatepackage>
+</cms>

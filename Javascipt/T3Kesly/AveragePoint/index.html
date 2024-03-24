@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Average Point</title>
+</head>
+<style>
+    #table-average {
+        margin-top: 1rem;
+        width: 80%;
+    }
+
+    table,
+    th,
+    td {
+        border: 1px solid black;
+    }
+
+    .input-field label {
+        width: 5rem;
+        display: inline-block;
+        margin-bottom: 8px;
+    }
+
+    .delete-block {
+        margin-top: 8px;
+    }
+</style>
+
+<body>
+    <div class="input-block">
+        <h2>Tính điểm trung bình</h2>
+        <div class="input-field">
+            <label for="">Họ và tên</label>
+            <input type="text" id="name">
+        </div>
+        <div class="input-field">
+            <label for="">Điểm Toán</label>
+            <input type="text" id="math">
+        </div>
+        <div class="input-field">
+            <label for="">Điểm Lý</label>
+            <input type="text" id="physics">
+        </div>
+        <div class="input-field">
+            <label for="">Điểm Hóa</label>
+            <input type="text" id="chemistry">
+        </div>
+        <button id="create-btn">Nhập</button>
+        <div class="delete-block">
+            <button id="delete-btn">Xoá</button>
+            <input type="text" placeholder="Nhập STT cần xóa" id="input-delete">
+        </div>
+    </div>
+
+    <table id="table-average">
+        <tr>
+            <th>STT</th>
+            <th>Họ và tên</th>
+            <th>Toán</th>
+            <th>Lý</th>
+            <th>Hóa</th>
+            <th>Điểm trung bình</th>
+        </tr>
+    </table>
+    <script src="./main.js"></script>
+</body>
+
+</html>

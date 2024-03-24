@@ -1,0 +1,5 @@
+/Users/admin/Documents/Tung Dev/C# Web/Linkedin/obj/Debug/net6.0/Linkedin.csproj.AssemblyReference.cache
+/Users/admin/Documents/Tung Dev/C# Web/Linkedin/obj/Debug/net6.0/Linkedin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/Tung Dev/C# Web/Linkedin/obj/Debug/net6.0/Linkedin.AssemblyInfoInputs.cache
+/Users/admin/Documents/Tung Dev/C# Web/Linkedin/obj/Debug/net6.0/Linkedin.AssemblyInfo.cs
+/Users/admin/Documents/Tung Dev/C# Web/Linkedin/obj/Debug/net6.0/Linkedin.csproj.CoreCompileInputs.cache

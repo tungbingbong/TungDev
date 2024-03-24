@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A930372C-A4AA-4783-BE23-7A2D3E9DB404}</ProjectGuid>
+    <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LWalshFinalClient</RootNamespace>
+    <AssemblyName>LWalshFinalClient</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <AndroidApplication>true</AndroidApplication>
+    <AndroidResgenFile>Resources\Resource.Designer.cs</AndroidResgenFile>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+    <AndroidUseLatestPlatformSdk>False</AndroidUseLatestPlatformSdk>
+    <TargetFrameworkVersion>v4.4</TargetFrameworkVersion>
+    <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AndroidUseSharedRuntime>True</AndroidUseSharedRuntime>
+    <AndroidLinkMode>None</AndroidLinkMode>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AndroidUseSharedRuntime>False</AndroidUseSharedRuntime>
+    <AndroidLinkMode>SdkOnly</AndroidLinkMode>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Data Models\HHListItem.cs" />
+    <Compile Include="Data Models\Household.cs" />
+    <Compile Include="Activities\HouseholdActiviy.cs" />
+    <Compile Include="Data Models\HouseholdMember.cs" />
+    <Compile Include="Data Models\Message.cs" />
+    <Compile Include="Data Models\MessageListItem.cs" />
+    <Compile Include="Data Models\User.cs" />
+    <Compile Include="Data Models\Vote.cs" />
+    <Compile Include="Data Models\VoteCast.cs" />
+    <Compile Include="Data Models\VoteListItem.cs" />
+    <Compile Include="HttpAutoProxyHandler.cs" />
+    <Compile Include="Activities\MainActivity.cs" />
+    <Compile Include="Data Models\MemberListItem.cs" />
+    <Compile Include="Activities\MessageActivity.cs" />
+    <Compile Include="Resources\MessageScrollAdapter.cs" />
+    <Compile Include="Resources\HHScrollAdapter.cs" />
+    <Compile Include="Resources\MemberScrollAdapter.cs" />
+    <Compile Include="Resources\Resource.Designer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Activities\VoteActivity.cs" />
+    <Compile Include="Resources\VoteScrollAdapter.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="GettingStarted.Xamarin" />
+    <None Include="packages.config" />
+    <None Include="Resources\AboutResources.txt" />
+    <None Include="Assets\AboutAssets.txt" />
+    <AndroidResource Include="Resources\layout\Household.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\Vote.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\Message.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\ContactListItem.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\VoteListItem.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\MessageListItem.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\layout\Main.axml" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\values\Strings.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\AndroidManifest.xml">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Azure.Search, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Azure.Search.1.1.1\lib\portable-net403+win8+wpa81\Microsoft.Azure.Search.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Rest.ClientRuntime, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Rest.ClientRuntime.1.8.1\lib\portable-net45+win+wpa81\Microsoft.Rest.ClientRuntime.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Rest.ClientRuntime.Azure, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Rest.ClientRuntime.Azure.2.5.2\lib\portable-net45+win+wpa81\Microsoft.Rest.ClientRuntime.Azure.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Spatial, Version=6.13.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Spatial.6.13.0\lib\portable-net40+sl5+wp8+win8+wpa\Microsoft.Spatial.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.WindowsAzure.Mobile, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Azure.Mobile.Client.2.0.1\lib\monoandroid\Microsoft.WindowsAzure.Mobile.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.WindowsAzure.Mobile.Ext, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Azure.Mobile.Client.2.0.1\lib\monoandroid\Microsoft.WindowsAzure.Mobile.Ext.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Mono.Android" />
+    <Reference Include="Newtonsoft.Json, Version=8.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.8.0.3\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Collections">
+      <HintPath>..\..\..\..\..\..\..\..\Windows\WinSxS\msil_system.collections_b03f5f7f11d50a3a_4.0.10586.0_none_de6c488d5d0ef7c7\System.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Diagnostics.Debug">
+      <HintPath>..\..\..\..\..\..\..\..\Windows\WinSxS\msil_system.diagnostics.debug_b03f5f7f11d50a3a_4.0.10586.0_none_20a1bcef6e527435\System.Diagnostics.Debug.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.Tools">
+      <HintPath>..\..\..\..\..\..\..\..\Windows\WinSxS\msil_system.diagnostics.tools_b03f5f7f11d50a3a_4.0.10586.0_none_3eaafee940fb95c5\System.Diagnostics.Tools.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Globalization">
+      <HintPath>..\..\..\..\..\..\..\..\Windows\WinSxS\msil_system.globalization_b03f5f7f11d50a3a_4.0.10586.0_none_422ddffa68fe1f2f\System.Globalization.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO">
+      <HintPath>..\..\..\..\..\..\..\..\Windows\WinSxS\amd64_netfx4-system.io_b03f5f7f11d50a3a_4.0.10586.0_none_56a48e9526090eb5\System.IO.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Linq">
+      <HintPath>..\..\..\..\..\..\..\..\Windows\WinSxS\msil_system.linq_b03f5f7f11d50a3a_4.0.10586.0_none_1877989c09ce57a2\System.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Linq.Expressions">
+      <HintPath>..\..\..\..\..\..\..\..\Windows\WinSxS\msil_system.linq.expressions_b03f5f7f11d50a3a_4.0.10586.0_none_b3a8a54668b1d853\System.Linq.Expressions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Net.Primitives">
+      <HintPath>..\..\..\..\..\..\..\..\Windows\WinSxS\msil_system.net.primitives_b03f5f7f11d50a3a_4.0.10586.0_none_a001b0ad43a9e75f\System.Net.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ObjectModel">
+      <HintPath>..\..\..\..\..\..\..\..\Windows\WinSxS\amd64_netfx4-system.objectmodel_b03f5f7f11d50a3a_4.0.10586.0_none_e5e6b84eda4aec9b\System.ObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reflection">
+      <HintPath>..\..\..\..\..\..\..\..\Windows\WinSxS\msil_system.reflection_b03f5f7f11d50a3a_4.0.10586.0_none_86313b5ca5af0363\System.Reflection.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reflection.Extensions">
+      <HintPath>..\..\..\..\..\..\..\..\Windows\WinSxS\msil_system.reflection.extensions_b03f5f7f11d50a3a_4.0.10586.0_none_5d992d8d00cc00a1\System.Reflection.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Resources.ResourceManager">
+      <HintPath>..\..\..\..\..\..\..\..\Windows\WinSxS\msil_system.resources.resourcemanager_b03f5f7f11d50a3a_4.0.10586.0_none_6f5b2d3a5ccad1ec\System.Resources.ResourceManager.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime">
+      <HintPath>..\..\..\..\..\..\..\..\Windows\WinSxS\msil_system.runtime_b03f5f7f11d50a3a_4.0.10586.0_none_48717f4af12bec74\System.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Caching, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\Windows\WinSxS\msil_system.runtime.caching_b03f5f7f11d50a3a_4.0.10586.162_none_ffd28f185fd8781a\System.Runtime.Caching.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Extensions">
+      <HintPath>..\..\..\..\..\..\..\..\Windows\WinSxS\msil_system.runtime.extensions_b03f5f7f11d50a3a_4.0.10586.0_none_61fcaca6ddeca3ea\System.Runtime.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Text.Encoding">
+      <HintPath>..\..\..\..\..\..\..\..\Windows\WinSxS\msil_system.text.encoding_b03f5f7f11d50a3a_4.0.10586.0_none_9bf57834f52f2430\System.Text.Encoding.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading">
+      <HintPath>..\..\..\..\..\..\..\..\Windows\WinSxS\msil_system.threading_b03f5f7f11d50a3a_4.0.10586.0_none_8f06edcfb42ace40\System.Threading.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks">
+      <HintPath>..\..\..\..\..\..\..\..\Windows\WinSxS\msil_system.threading.tasks_b03f5f7f11d50a3a_4.0.10586.0_none_541875139c35cb80\System.Threading.Tasks.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\Windows\Microsoft.NET\Framework\v4.0.30319\System.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Extensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\Windows\Microsoft.NET\Framework\v4.0.30319\System.Web.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.ReaderWriter">
+      <HintPath>..\..\..\..\..\..\..\..\Windows\WinSxS\msil_system.xml.readerwriter_b03f5f7f11d50a3a_4.0.10586.0_none_5333e3a157afdd93\System.Xml.ReaderWriter.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.XmlSerializer">
+      <HintPath>..\..\..\..\..\..\..\..\Windows\WinSxS\msil_system.xml.xmlserializer_b03f5f7f11d50a3a_4.0.10586.0_none_861e7d7315e9f298\System.Xml.XmlSerializer.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
+  <Import Project="..\packages\Microsoft.Bcl.Build.1.0.21\build\Microsoft.Bcl.Build.targets" Condition="Exists('..\packages\Microsoft.Bcl.Build.1.0.21\build\Microsoft.Bcl.Build.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.Bcl.Build.1.0.21\build\Microsoft.Bcl.Build.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Bcl.Build.1.0.21\build\Microsoft.Bcl.Build.targets'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+     Other similar extension points exist, see Microsoft.Common.targets.
+		<Target Name="BeforeBuild">
+		</Target>
+		<Target Name="AfterBuild">
+		</Target>
+ -->
+</Project>
